@@ -1,13 +1,13 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "{{ site.theme }}" {
 /*Fonts*/
 :root {
   --default-font-size = 24px;
   --default-font-weight-regular = 400;
   --default-font-weight-bold = 700;
-}
+};
 
 /*Inter Font*/
 /*This is the Title font, very nais*/
