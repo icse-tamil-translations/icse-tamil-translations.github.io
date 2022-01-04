@@ -2,17 +2,16 @@
 ---
 
 @import "{{ site.theme }}" {
-:root {
-  --default-font-size = 24px;
-  --default-font-weight-regular = 400;
-  --default-font-weight-bold = 700;
-};
 
 /*Inter Font*/
 /*This is the Title font, very nais*/
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
-html { 
+html {
+  --default-font-size = 24px;
+  --default-font-weight-regular = 400;
+  --default-font-weight-bold = 700;
+  
   font-family: 'Inter', sans-serif;
   font-weight: (--default-font-weight-regular);
   font-size: (--default-font-size);
