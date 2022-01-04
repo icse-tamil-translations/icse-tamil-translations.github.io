@@ -2,8 +2,8 @@
 ## Chapter 6
 Author: Vaandu Mama
 Translator: Vishard
----
-Today our country is riddled with food shortages and Farmer’s protests . But many centuries ago , an Indian had worked on land reforms , devising a system to measure land-tax and eradicated the suffering of the farmers .
+---  
+Today our country is riddled with food shortages and Farmer’s protests . But many centuries ago , an Indian had worked on land reforms, devising a system to measure land-tax and eradicated the suffering of the farmers .
 
  His name was Raja Todarmal .  Famed as one of the 9 gems of Akbar’s court . He was not born into royalty . He was born in present day Uttar Pradesh’s Sitapur District , in a village called Laharpur . During that time , the government officials used to exploit the poor farmers for too much land-tax . Todarmal did not like this at all . He used to argue  “To run the country, tax money is required . But to get this money the poor farmer’s should not suffer”  . Although Todarmal was a poor steward in his area , he used to advise his superiors on ways to gather land-tax without burdening the farmers .
 

@@ -2,7 +2,7 @@
 ## Chapter 11
 Author: K. Jeevabharathi
 Translator: Vishard
----
+---  
 In our country , opposition against the British first began in Southern Tamil Nadu . That too , the ruler of a small kingdom was the first to oppose the British . 
 
 The British thought that they could subdue Indians with the help of their weapons , but the Indian bravehearts saw to it that their dreams were crushed . The biggest example of this is in the Tamil country .

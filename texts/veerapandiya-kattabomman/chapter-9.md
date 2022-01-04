@@ -2,7 +2,7 @@
 ## Chapter 9
 Author: K. Jeevabharathi
 Translator: Vishard
----
+---  
 Lusington was desperate to bring Kattobomman under British control . Lusington worried that he might end up like Alan Durai , Maxwell and Jackson Durai and fail to subdue Kattabomman . 
 
 Lusington concluded that there was no use in holding talks with Kattabomman , who was clearly not interested in it . Therefore he thought it best to meet Kattabomman with weapons rather than words . He wrote a letter to the governor , stating “We will have to deal with Kattabomman on the battlefield now . Only if we subdue Kattabomman will the other kingdoms respect us and pay tax to us . Therefore I request you to send orders to capture Panjalankurichi , along with the required soldiers as soon as possible “

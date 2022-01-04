@@ -2,7 +2,7 @@
 ## Chapter 7
 Author: K. Jeevabharathi
 Translator: Derpitron
----
+---  
 Next to Jackson, there was another officer named Lusington who became the collector of Tirunelveli. Then as usual, other Palayakkarars went and met Lusington. But Kattabomman didn't meet him. Lusington, who was already upset about Kattabomman for not paying his taxes, became further irritated about his behaviour. Still he waited to see if Kattabomman ever visits him. Finally after two months, he wrote a letter to Kattabomman regarding tax money and also raised the issue of compensating the family of Clarke who was killed by Kattabomman at Ramanathapuram.
 
 Kattabomman wrote a reply to that letter stating that he can't talk about taxes for anytime soon moreover since there was no monsoon that year. He mentioned that two men from his side were also killed during the encounter at Ramanathapuram and several of their weapons had been confiscated. So Kattabomman said that if the Britishers were willing to compensate their losses and return their weapons, he would also consider compensation for Clarke's family. Upon receiving such a reply, Lusington was very irked. He too wanted to subdue Kattabomman by all means. When he was thinking along these lines only then Jackson had come to his mind.

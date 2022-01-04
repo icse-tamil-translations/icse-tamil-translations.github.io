@@ -2,7 +2,7 @@
 ## Chapter 13
 Author: K. Jeevabharathi
 Translator: Vishard
----
+---  
 The night Vellaiya Thevan was killed , Kattabomman wept inconsolably . He was extremely depressed that both Sundaralingam and Vellaiya Thevan , whom he had considered his heir , had both lost their lives .
 
 Kattabomman , who had consoled thousands of people , could not be consoled now by Danapathi Pillai and Oomaithurai . All of them thought about what had to be done next . Danapathi Pillai said “The loss of Sundaralingam and Vellaiya Thevan are the two biggest gains for our enemies .  On top of that , Bannerman acknowledged that fighting us was not as easy as he had thought and he has requested 24-pound cannonballs and more soldiers . With our current army , we will not be able to oppose the strengthened British , Therefore I suggest that we escape from here to Trichy and talk things out with the higher officials there” . Oomaithurai immediately opposed this suggestion . Kattabomman’s group   deliberated for a long time , and finally decided to follow Danapathi Pillai’s plan . 

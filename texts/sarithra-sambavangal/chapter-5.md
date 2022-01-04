@@ -2,7 +2,7 @@
 ## Chapter 5
 Author: Vaandu Mama
 Translator: Vishard
----
+---  
 The birthplace of bravery is Rajasthan . The Rajputs of this region are famed for their brave deeds.  They are ready to sacrifice their life for honour’s sake . 
 
 Uday Simman was the Son of the great Rana Sangha . He led a life of great luxury and indulged in pleasures . He was considered a disgrace to the Rajput clan . It was under his reign that Mewar lost much of its territory to the Mughals . The people hated him because of this .

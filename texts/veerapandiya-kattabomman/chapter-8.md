@@ -2,7 +2,7 @@
 ## Chapter 8
 Author: K. Jeevabharathi
 Translator: Derpitron
----
+---  
 Lusington was very angry that Kattabomman had left Kamuthi without even meeting him. So he decided to go to Ramanathapuram right from Kamuthi. He wanted to go to Ramalinga vilas to enquire about the meeting between Kattabomman and Jackson. The British authorities present over there talked endlessly about Kattabomman's fearless and reckless behaviour while talking to Jackson, the way he escaped out of the building from the midst of the British soldiers. Hearing all this, Lusington became nervous at the same time reverent towards Kattabomman. However he was keen about subduing Kattabomman by some means or the other. At that time, the memory of Ettappan, the king of Ettayapuram crossed his mind.
 
 Ettappan was loyal to the British and as a result he was frequently invited by the British for taking part in banquets and dinners. He was also a big fan of foreign alcoholic beverages. So the Britishers also exploited his weakness and tried to make use of him as much as they could by inviting him for dinners. Lusington also decided to plan a grand dinner and invite Ettappan as a guest. He sought the help of Maxwell and Alexander Heron for this purpose.

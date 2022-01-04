@@ -2,7 +2,7 @@
 ## Chapter 2
 Author: K. Jeevabharathi
 Translator: Derpitron
----
+---  
 Once there lived a king named Balraj who ruled the place called Vadikottai (erstwhile Andhra) located in present day Bellary district of Karnataka. He had a son named Bommu who succeeded as the next king. Bommu had a beautiful daughter who was sought after by several kings. During that time, several parts of Andhra was ruled by a powerful Muslim king. This Muslim King was also interested in marrying Bommu's daughter. However Bommu did not want his daughter to marry a person from another religion. But it was also not a wise choice to go up against that Muslim king. So he decided to migrate with his family entirely to a different place. 
 
 Bommu arrived at a place called Salakulam near Maniyachi, Tirunelveli district. It so happened that the village was being plundered by robbers at that time. Bommu single handedly fought with them, eventually chased them away and protected the local villagers. His brave actions were appreciated by the people and he came to be known as Kattabommu which is a short form of Gettikkara(meaning: talented) Bommu. 

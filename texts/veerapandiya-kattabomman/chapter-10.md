@@ -2,7 +2,7 @@
 ## Chapter 10
 Author: K. Jeevabharathi
 Translator: Vishard
----
+---  
 As soon as he heard that Panjalankurichi fort was surrounded by the British , Oomaidurai and other soldiers returned from their pilgrimage and disguised themselves to enter the fort secretly. The British who were waiting to capture them could not sense anything.
 
 The British force that was sent to arrest Danapathi pillai in his hometown also returned empty-handed . The minister too , had escaped secretly to Panjalankurichi . 
