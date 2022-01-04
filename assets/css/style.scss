@@ -2,3 +2,33 @@
 ---
 
 @import "{{ site.theme }}";
+
+/*Inter Font*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap');
+
+html { 
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+}
+
+h1 {
+  font-family: 'Inter', sans-serif;
+  letter-spacing: -0.060em;
+  font-size: 80px;
+  font-weight: 800;
+}
+
+/*Lusitania Font*/
+@import url('https://fonts.googleapis.com/css2?family=Lusitana:wght@400;700&display=swap');
+
+p {
+  font-family: 'Lusitania', serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+b {
+  font-family: 'Lusitania', serif;
+  font-size: 24px;
+  font-weight: 700;
+}
