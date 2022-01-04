@@ -1,49 +1,47 @@
 ---
 ---
+ 
+@import "{{ site.theme }}";
 
-{ 
-	@import "{{ site.theme }}";
+/*Inter Font*/
+/*This is the Title font, very nais*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
-	/*Inter Font*/
-	/*This is the Title font, very nais*/
-	@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+html {
+	--default-font-size: 24px;
+	--default-font-weight-regular: 400;
+	--default-font-weight-bold: 700;
 
-	html {
-		--default-font-size: 24px;
-		--default-font-weight-regular: 400;
-		--default-font-weight-bold: 700;
+	font-family: 'Inter', sans-serif;
+	font-weight: (--default-font-weight-regular);
+	font-size: (--default-font-size);
+}
 
-		font-family: 'Inter', sans-serif;
-		font-weight: (--default-font-weight-regular);
-		font-size: (--default-font-size);
-	}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Inter', sans-serif;
+	letter-spacing: -0.060em;
+	font-size: 3.33em;
+	font-weight: (--default-font-weight-bold);
+}
 
-	h1, h2, h3, h4, h5, h6 {
-		font-family: 'Inter', sans-serif;
-		letter-spacing: -0.060em;
-		font-size: 3.33em;
-		font-weight: (--default-font-weight-bold);
-	}
+h2 {
+	font-size: 2.66em;
+}
 
-	h2 {
-		font-size: 2.66em;
-	}
+h3 {
+	font-size: 2.33em
+}
 
-	h3 {
-		font-size: 2.33em
-	}
+/*Lusitania Font*/
+/*This is the serif text font*/
+@import url('https://fonts.googleapis.com/css2?family=Lusitana:wght@400;700&display=swap');
 
-	/*Lusitania Font*/
-	/*This is the serif text font*/
-	@import url('https://fonts.googleapis.com/css2?family=Lusitana:wght@400;700&display=swap');
+p, body, b {
+	font-family: 'Lusitana', serif;
+	font-size: (--default-font-size);
+	font-weight: (--default-font-weight-regular);
+}
 
-	p, body, b {
-		font-family: 'Lusitana', serif;
-		font-size: (--default-font-size);
-		font-weight: (--default-font-weight-regular);
-	}
-
-	b {
-		font-weight: (--default-font-weight-bold);
-	}
+b {
+	font-weight: (--default-font-weight-bold);
 }
