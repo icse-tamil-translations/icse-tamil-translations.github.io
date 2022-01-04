@@ -8,20 +8,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
 html {
-	--default-font-size: 24px;
-	--default-font-weight-regular: 400;
-	--default-font-weight-bold: 700;
-
 	font-family: 'Inter', sans-serif;
-	font-weight: (--default-font-weight-regular);
-	font-size: (--default-font-size);
+	font-weight: 400;
+	font-size: 24px;
 }
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Inter', sans-serif;
 	letter-spacing: -0.060em;
 	font-size: 3.33em;
-	font-weight: (--default-font-weight-bold);
+	font-weight: 700;
 }
 
 h2 {
@@ -38,10 +34,10 @@ h3 {
 
 p, body, b {
 	font-family: 'Lusitana', serif;
-	font-size: (--default-font-size);
-	font-weight: (--default-font-weight-regular);
+	font-size: 24px;
+	font-weight: 400;
 }
 
 b {
-	font-weight: (--default-font-weight-bold);
+	font-weight: 700;
 }
