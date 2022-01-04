@@ -1,5 +1,5 @@
-### veerapandiya-kattabomman/chapter-9
-## Chapter 9
+### veerapandiya-kattabomman/chapter-13
+## Chapter 13
 Author: K. Jeevabharathi
 Translator: Vishard
 ---
