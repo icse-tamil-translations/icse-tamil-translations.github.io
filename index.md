@@ -15,12 +15,12 @@ Veerapandiya Kattabomman is the story of a brave Tamil King (Veerapandiya Kattab
 ## Sarithra Sambavangal
 Sarithra Sambavangal literally means "Historical Incidents". It is written by Vaandu Mama. It's not a contiguous story, moreso a collection of several historical stories set throughout the myriad of ages and places of India. From the valorous Maharana Pratap's fight against the Mughals, to the quest of a Pallava sculptor boy's quest to find his father. Vaandu Mama, in the foreword of this book, expresses his view that he's only been able to capture a mere water droplet, compared to the ocean of stories that India contains.
 ### Links to the chapters
-[Chapter-1](https://github.com/Derpitron/icse-tamil-translations/blob/main/texts/sarithra-sambavangal/chapter-1.md)
-[Chapter-2](https://github.com/Derpitron/icse-tamil-translations/blob/main/texts/sarithra-sambavangal/chapter-2.md)
-[Chapter-3](https://github.com/Derpitron/icse-tamil-translations/blob/main/texts/sarithra-sambavangal/chapter-3.md)
-[Chapter-4](https://github.com/Derpitron/icse-tamil-translations/blob/main/texts/sarithra-sambavangal/chapter-4.md)
-[Chapter-5](https://github.com/Derpitron/icse-tamil-translations/blob/main/texts/sarithra-sambavangal/chapter-5.md)
-[Chapter-6](https://github.com/Derpitron/icse-tamil-translations/blob/main/texts/sarithra-sambavangal/chapter-6.md)
+[Chapter-1](https://github.com/Derpitron/icse-tamil-translations/blob/main/texts/sarithra-sambavangal/chapter-1.md)  
+[Chapter-2](https://github.com/Derpitron/icse-tamil-translations/blob/main/texts/sarithra-sambavangal/chapter-2.md)  
+[Chapter-3](https://github.com/Derpitron/icse-tamil-translations/blob/main/texts/sarithra-sambavangal/chapter-3.md)  
+[Chapter-4](https://github.com/Derpitron/icse-tamil-translations/blob/main/texts/sarithra-sambavangal/chapter-4.md)  
+[Chapter-5](https://github.com/Derpitron/icse-tamil-translations/blob/main/texts/sarithra-sambavangal/chapter-5.md)  
+[Chapter-6](https://github.com/Derpitron/icse-tamil-translations/blob/main/texts/sarithra-sambavangal/chapter-6.md)  
 ---
 
 ## FAQ
