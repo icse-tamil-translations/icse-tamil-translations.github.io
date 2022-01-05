@@ -21,6 +21,7 @@ Sarithra Sambavangal literally means "Historical Incidents". It is written by Va
 [Chapter-4](https://github.com/Derpitron/icse-tamil-translations/blob/main/texts/sarithra-sambavangal/chapter-4.md)  
 [Chapter-5](https://github.com/Derpitron/icse-tamil-translations/blob/main/texts/sarithra-sambavangal/chapter-5.md)  
 [Chapter-6](https://github.com/Derpitron/icse-tamil-translations/blob/main/texts/sarithra-sambavangal/chapter-6.md)  
+
 ---
 
 ## FAQ
