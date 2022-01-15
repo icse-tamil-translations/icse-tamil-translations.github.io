@@ -3,13 +3,9 @@
 
 @import "{{ site.theme }}";
 
-body, html {
-	margin-left: 7%;
-	margin-right: 7%
-}
-
 /*Inter Font*/
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');/*Sans Font*/
+@import url('https://fonts.googleapis.com/css2?family=Lusitana:wght@400;700&display=swap');/*Serif Font*/
 
 html, h1, h2, h3, h4, h5, h6, p, b {
 	font-family: 'Inter', sans-serif;
@@ -32,4 +28,13 @@ h2 {
 h3 {
 	font-size: 1.338em;
 	text-align: center;
+}
+
+p, body, b {
+	font-family: 'Lusitana', serif;
+	font-weight: 400;
+}
+
+b {
+	font-weight: 700;
 }
