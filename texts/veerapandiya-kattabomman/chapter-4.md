@@ -1,4 +1,3 @@
-### veerapandiya-kattabomman/chapter-4
 ## Chapter 4
 Author: K. Jeevabharathi
 Translator: Derpitron

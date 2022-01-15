@@ -1,4 +1,3 @@
-### veerapandiya-kattabomman/chapter-6
 ## Chapter 6
 Author: K. Jeevabharathi
 Translator: Derpitron

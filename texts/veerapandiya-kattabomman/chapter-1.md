@@ -1,4 +1,3 @@
-### veerapandiya-kattabomman/chapter-1
 ## Chapter 1
 Author: K. Jeevabharathi
 Translator: Derpitron

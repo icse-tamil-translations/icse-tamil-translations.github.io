@@ -1,4 +1,3 @@
-### veerapandiya-kattabomman/chapter-8
 ## Chapter 8
 Author: K. Jeevabharathi
 Translator: Derpitron

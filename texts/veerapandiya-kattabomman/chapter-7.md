@@ -1,4 +1,3 @@
-### veerapandiya-kattabomman/chapter-7
 ## Chapter 7
 Author: K. Jeevabharathi
 Translator: Derpitron

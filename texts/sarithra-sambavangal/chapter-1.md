@@ -1,4 +1,3 @@
-### sarithra-sambavangal/chapter-1
 ## Chapter 1
 Author: Vaandu Mama
 Translator: Derpitron

@@ -1,4 +1,3 @@
-### sarithra-sambavangal/chapter-3
 ## Chapter 3
 Author: Vaandu Mama
 Translator: Derpitron
