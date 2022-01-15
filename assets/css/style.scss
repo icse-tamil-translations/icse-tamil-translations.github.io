@@ -3,6 +3,13 @@
  
 @import "{{ site.theme }}";
 
+body, html {
+	margin-left:5%;
+	margin-right:5%;
+	margin-bottom:5%;
+	margin-top:5%;
+}
+
 /*Inter Font*/
 /*This is the Title font, very nais*/
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
