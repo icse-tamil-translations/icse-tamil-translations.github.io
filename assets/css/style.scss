@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6, p, b, body {
 	font-family: 'Inter', sans-serif;
 	font-weight: 400;
 	font-size: 18px;
-	margin: 1em 0;
+	margin: 5%;
 }
 
 h1, h2, h3, h4, h5, h6, b{
@@ -42,17 +42,12 @@ b {
 	font-weight: 700;
 }
 
-/*Margins*/
-body, html {
-	body, html {
-		margin-left:1em;
-		margin-right:1em;
-	}
-}
-
 @media only screen and (max-width: 700px) {
 	body, html {
 		margin-left:2%;
 		margin-right:2%;
-		}
+	}
+	h1, h2, h3, h4, h5, h6, p, b, body {
+		text-align: center;
+	}
 }
