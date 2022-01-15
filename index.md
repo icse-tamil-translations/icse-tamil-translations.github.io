@@ -1,4 +1,4 @@
-# Derpitron and Vishard's English Translations
+### Derpitron and Vishard's English Translations
 
 ## Welcome to our site!
 
