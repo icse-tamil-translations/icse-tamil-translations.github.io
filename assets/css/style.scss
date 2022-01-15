@@ -1,37 +1,16 @@
----
----
- 
-@import "{{ site.theme }}";
-
 body, html {
 	margin-left: 3%;
 	margin-right: 3%;
 }
 
 /*Inter Font*/
-/*This is the Title font, very nais*/
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
-html {
+html, h1, h2, h3, h4, h5, h6, p, b {
 	font-family: 'Inter', sans-serif;
 	font-weight: 400;
 }
 
-h1, h2, h3, h4, h5, h6 {
-	font-family: 'Inter', sans-serif;
-	letter-spacing: -0.060em;
-	font-weight: 700;
-}
-
-/*Lusitania Font*/
-/*This is the serif text font*/
-@import url('https://fonts.googleapis.com/css2?family=Lusitana:wght@400;700&display=swap');
-
-p, body, b {
-	font-family: 'Lusitana', serif;
-	font-weight: 400;
-}
-
-b {
+h1, h2, h3, h4, h5, h6, b{
 	font-weight: 700;
 }
