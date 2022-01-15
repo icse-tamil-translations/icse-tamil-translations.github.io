@@ -1,5 +1,5 @@
 ## Chapter 2
-Author: K. Jeevabharathi
+Author: K. Jeevabharathi  
 Translator: Derpitron
 ---  
 Once there lived a king named Balraj who ruled the place called Vadikottai (erstwhile Andhra) located in present day Bellary district of Karnataka. He had a son named Bommu who succeeded as the next king. Bommu had a beautiful daughter who was sought after by several kings. During that time, several parts of Andhra was ruled by a powerful Muslim king. This Muslim King was also interested in marrying Bommu's daughter. However Bommu did not want his daughter to marry a person from another religion. But it was also not a wise choice to go up against that Muslim king. So he decided to migrate with his family entirely to a different place. 
