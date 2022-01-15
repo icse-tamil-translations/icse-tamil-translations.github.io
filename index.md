@@ -9,19 +9,10 @@ This site hosts the English translations of two ICSE Class X Tamil Textbooks. Wo
 ---
 ## Veerapandiya Kattabomman
 Veerapandiya Kattabomman is the story of a brave Tamil King (Veerapandiya Kattabomman), written by **K. Jeevabharathi**. This story details Kattabomman's struggle of attrition against the British East India Company, set in 18th century India. we hope that by translating it, we can bring an appreciation of the early freedom fighters to you, the reader.
-
 ---
 
 ## Sarithra Sambavangal
 Sarithra Sambavangal literally means "Historical Incidents". It is written by Vaandu Mama. It's not a contiguous story, moreso a collection of several historical stories set throughout the myriad of ages and places of India. From the valorous Maharana Pratap's fight against the Mughals, to the quest of a Pallava sculptor boy's quest to find his father. Vaandu Mama, in the foreword of this book, expresses his view that he's only been able to capture a mere water droplet, compared to the ocean of stories that India contains.
-### Links to the chapters
-[Chapter-1](https://derpitron.github.io/icse-tamil-translations//chapter-1.md)  
-[Chapter-2](https://github.com/Derpitron/icse-tamil-translations/blob/main/texts/sarithra-sambavangal/chapter-2.md)  
-[Chapter-3](https://github.com/Derpitron/icse-tamil-translations/blob/main/texts/sarithra-sambavangal/chapter-3.md)  
-[Chapter-4](https://github.com/Derpitron/icse-tamil-translations/blob/main/texts/sarithra-sambavangal/chapter-4.md)  
-[Chapter-5](https://github.com/Derpitron/icse-tamil-translations/blob/main/texts/sarithra-sambavangal/chapter-5.md)  
-[Chapter-6](https://github.com/Derpitron/icse-tamil-translations/blob/main/texts/sarithra-sambavangal/chapter-6.md)  
-
 ---
 
 ## FAQ
@@ -37,4 +28,3 @@ Sarithra Sambavangal literally means "Historical Incidents". It is written by Va
 This site is licensed under the MIT License, meaning you too can contribute to it! From the appearance to the translations themselves! Everyone is welcome, especially translators. 
 
 The initial scope of this site is to translate just 2 books fully, but in time we hope to expand to the third ICSE Class X Book, Rajaraja Chozhan. Me and Vishard do not have a copy of this book, so if anyone does have a copy, feel free to contribute. 
-
