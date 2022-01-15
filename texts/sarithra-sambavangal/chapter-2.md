@@ -1,5 +1,5 @@
 ## Chapter 2
-Author: Vaandu Mama
+Author: Vaandu Mama  
 Translator: Derpitron
 ---  
 India had several rulers who changed the face of the nation's history. One such a ruler is Chandragupta Maurya. Though he was a great king in history, his initial days were full of struggle. He lost his father even before his birth. So his mother moved to her brother's place at Patliputra. Since they had no money, her brother instructed her to leave the baby at someone's house who would raise the baby well. Accordingly her mother left the baby at a cowherd rearer's house. He raised the baby well but when he grew up into a small boy, the cowherd man sold the boy to a hunter. The hunter used this boy to rear cattle. There were also other boys who reared cattle like Chandragupta  One day the boys played a game of kings and subjects. Even in that game, Chandragupta exhibited excellent leadership traits. This game was being watched by a learned Brahmin Vishnugupta. This Brahmin is none other than Chanakya. Chanakya went to the hunter and paid the money for releasing Chandragupta and took Chandragupta with him and educated him. Chanakya could foresee that this boy could rise up as a great king in future. In due time, Chandragupta became educated and trained in warfare and was fit to be a ruler. 

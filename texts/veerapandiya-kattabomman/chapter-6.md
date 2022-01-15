@@ -1,5 +1,5 @@
 ## Chapter 6
-Author: K. Jeevabharathi
+Author: K. Jeevabharathi  
 Translator: Derpitron
 ---  
 Alan had reported his defeat to his higher officials. This made the Britishers even more vengeful against Kattabomman. In the meantime Kattabomman also guessed that Britishers would be infuriated by this defeat and would come back with bigger plans and would cause trouble. So he was thinking of ways to tackle the British. He thought of colluding with other Palayams in order to go up against the British. In lieu of that, he met the Palayakkarars of Nagalapuram, Ezhayirampannai, Kolarpatti, Kadalkudi and Kulathur and discussed about the need to oppose the British and that some Palayakkarars were scaredly supporting the British. So this paved the way to form a grand alliance against the British.

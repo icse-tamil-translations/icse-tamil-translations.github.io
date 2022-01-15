@@ -1,5 +1,5 @@
 ## Chapter 4
-Author: K. Jeevabharathi
+Author: K. Jeevabharathi  
 Translator: Derpitron
 ---  
 The history of invasion started in India with the time of Greek king Alexander. Several centuries later, Mohammedan rulers invaded India on several occasions. Muhammad of Ghazni was prominent among them. Later, Mughals invaded the country and caught hold of almost the entire Indian territory including parts of Tamilnadu. After that, the colonial powers like Portuguese, Danish, French, Dutch and British who originally came to India for trade and later tried to colonise the country. The Portuguese settled in Goa, Danish took hold of Tarangampadi, a town in South Arcot district in Tamilnadu. The French had establishments in Pondicherry and Karaikal. The Britishers bought Chennai (Madras) for lease from Chandragiri king. There was stiff competition between the Britishers and the French for claiming the Indian territory.

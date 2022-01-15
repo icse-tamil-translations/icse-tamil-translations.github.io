@@ -1,5 +1,5 @@
 ## Chapter 5
-Author: Vaandu Mama
+Author: Vaandu Mama  
 Translator: Vishard
 ---  
 The birthplace of bravery is Rajasthan. The Rajputs of this region are famed for their brave deeds.  They are ready to sacrifice their life for honour’s sake. 

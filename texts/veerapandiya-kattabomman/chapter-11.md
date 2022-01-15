@@ -1,5 +1,5 @@
 ## Chapter 11
-Author: K. Jeevabharathi
+Author: K. Jeevabharathi  
 Translator: Vishard
 ---  
 In our country, opposition against the British first began in Southern Tamil Nadu. That too, the ruler of a small kingdom was the first to oppose the British. 

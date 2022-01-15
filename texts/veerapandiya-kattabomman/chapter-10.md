@@ -1,5 +1,5 @@
 ## Chapter 10
-Author: K. Jeevabharathi
+Author: K. Jeevabharathi  
 Translator: Vishard
 ---  
 As soon as he heard that Panjalankurichi fort was surrounded by the British, Oomaidurai and other soldiers returned from their pilgrimage and disguised themselves to enter the fort secretly. The British who were waiting to capture them could not sense anything.

@@ -1,5 +1,5 @@
 ## Chapter 5
-Author: K. Jeevabharathi
+Author: K. Jeevabharathi  
 Translator: Derpitron
 ---  
 Even though the victory against Pulithevar was good news for the British, they were very much concerned about losing to Velu Nachiyar. If their opponents like Dindugul Haider Ali, Virupakshi Gopala Naicker, Kerala Verma got together and formed a formidable force, then it could cause havoc for the British. So their strategy from then onwards changed accordingly.

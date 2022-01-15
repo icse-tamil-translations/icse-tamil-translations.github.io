@@ -1,5 +1,5 @@
 ## Chapter 13
-Author: K. Jeevabharathi
+Author: K. Jeevabharathi  
 Translator: Vishard
 ---  
 The night Vellaiya Thevan was killed, Kattabomman wept inconsolably. He was extremely depressed that both Sundaralingam and Vellaiya Thevan, whom he had considered his heir, had both lost their lives.

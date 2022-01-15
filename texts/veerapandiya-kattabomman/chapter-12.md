@@ -1,5 +1,5 @@
 ## Chapter 12
-Author: K. Jeevabharathi
+Author: K. Jeevabharathi  
 Translator: Vishard
 ---  
 Bannerman was shocked to hear that his ammunition had been burned up. He also rejoiced at the fact that One of Kattabomman’s closest aide’s and best warriors - Sundaralingam, had been killed. 

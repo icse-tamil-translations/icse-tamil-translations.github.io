@@ -1,5 +1,5 @@
 ## Chapter 9
-Author: K. Jeevabharathi
+Author: K. Jeevabharathi  
 Translator: Vishard
 ---  
 Lusington was desperate to bring Kattobomman under British control. Lusington worried that he might end up like Alan Durai, Maxwell and Jackson Durai and fail to subdue Kattabomman. 
