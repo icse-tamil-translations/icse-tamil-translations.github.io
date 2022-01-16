@@ -25,6 +25,9 @@ Sarithra Sambavangal literally means "Historical Incidents". It is written by Va
 
 - **I don't know much Tamil, is there any way I can contribute?**  
   Yes, there are many things you can contribute to! Helping with the designs, adding notes, dates, grammar, etc. Just be sure to be polite and don't be afraid to ask for help or clarification.
+  
+- **Where can I give feedback on the site?**  
+  Feel free to visit the repository and open an Issue, or start a Discussion. Note: You will require a GitHub account in order to participate and contribute. However, GitHub accounts are free to sign up for, and you can create an account using your pre-existing Microsoft account, if you have one.
 
 ---
 
