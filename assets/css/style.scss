@@ -4,18 +4,15 @@
 @import "{{ site.theme }}";
 
 /*Text Formatting*/
-@import url('https://rsms.me/inter/inter.css:wght@400;700&display=swap');/*Title Font*/
-@import url('https://fonts.googleapis.com/css2?family=Lusitana:wght@400;700&display=swap');/*Text Font*/
 
 h1, h2, h3, h4, h5, h6, p, body, b {
-	font-family: 'Inter', sans-serif;
+	font-family: sans-serif;
 	font-weight: 700;
 	font-size: 20px;
 	margin-left: 10%;
 	margin-right: 10%;
 	margin-top: 2%;
 	margin-bottom: 2%;
-	font-feature-settings: 'cv01' on, 'cv03' on, 'cv04' on, 'cv05' on, 'cv08' on, 'cv11' on; /*alternate 1, 6, 9, l, I, a glyphs*/
 }
 h1 {
 	font-size: 1.5em;
@@ -34,7 +31,7 @@ li {
 }
 
 p, body, b {
-	font-family: 'Lusitana', serif;
+	font-family: serif;
 	font-weight: 400;
 }
 b {
@@ -44,8 +41,7 @@ b {
 header, nav, lh b, lh, li a {
 	margin-left: 2% !important; /*ugly important directive, to override default style*/
 	text-align: left !important;
-	font-family: 'Inter', sans-serif !important;
-	font-feature-settings: 'cv01' on, 'cv03' on, 'cv04' on, 'cv05' on, 'cv08' on, 'cv11' on; /*alternate 1, 6, 9, l, I, a glyphs*/
+	font-family: sans-serif !important;
 }
 li a {
 	margin-left: 10%
