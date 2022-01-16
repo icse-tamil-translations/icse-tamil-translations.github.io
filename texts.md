@@ -1,4 +1,4 @@
 ## Available Texts:
 ---
-- [Veerapandiya Kattabomman](./veerapandiya-kattabomman)
-- [Sarithra Sambavangal](./sarithra-sambavangal)
+- [Veerapandiya Kattabomman](veerapandiya-kattabomman)
+- [Sarithra Sambavangal](sarithra-sambavangal)
