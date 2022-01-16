@@ -10,7 +10,7 @@
 h1, h2, h3, h4, h5, h6, p, b, body {
 	font-family: 'Inter', sans-serif;
 	font-weight: 400;
-	font-size: 18px;
+	font-size: 20px;
 	margin-left: 10%;
 	margin-right: 10%;
 	margin-top: 2%;
@@ -24,6 +24,7 @@ h1 {
 }
 h2 {
 	font-size: 1.4em;
+	margin-left: 1%
 }
 h3 {
 	font-size: 1.338em;
@@ -37,7 +38,7 @@ b {
 	font-weight: 700;
 }
 header, li, ul {
-	margin-left: 2%;
+	margin-left: 2%; !important /*ugly important directive, to override default style*/
 }
 hr {
 	margin-left: 20%;
