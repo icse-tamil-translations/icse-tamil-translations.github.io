@@ -36,10 +36,10 @@ b {
 	font-weight: 700;
 }
 
-header {
+header, nav, lh b, lh {
 	margin-left: 2% !important; /*ugly important directive, to override default style*/
 	text-align: left !important;
-	font-family: 'Inter', sans-serif;
+	font-family: 'Inter', sans-serif !important;
 	font-feature-settings: 'cv01' on, 'cv03' on, 'cv04' on, 'cv05' on, 'cv08' on, 'cv11' on; /*alternate 1, 6, 9, l, I, a glyphs*/
 }
 hr {
@@ -57,7 +57,7 @@ hr {
 	h1, h2, h3, h4, h5, h6, p, b, body {
 		text-align: center;
 	}
-	header {
+	header, nav, lh b, lh {
 		text-align: left;
 	}
 }
