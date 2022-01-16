@@ -39,12 +39,11 @@ b {
 }
 
 header, nav, lh b, lh, li a {
-	margin-left: 2% !important; /*ugly important directive, to override default style*/
 	text-align: left !important;
 	font-family: sans-serif !important;
 }
 li a {
-	margin-left: 10%
+	margin-left: 5%
 }
 hr {
 	margin-left: 15%;
