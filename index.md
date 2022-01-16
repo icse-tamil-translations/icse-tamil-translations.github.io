@@ -20,7 +20,7 @@ Sarithra Sambavangal literally means "Historical Incidents". It is written by Va
 ---
 
 ## FAQ
-- **Do you have permission from the original authors/publishers to translate and publish these translations, that too under the MIT License?**  
+- **Do you have permission from the original authors/publishers to translate and publish these translations, that too under the GNU GPLv3 License?**  
   **No.** We do not have any explicit permission to publish these translations. Me and Vishard are fully willing to take down these translations fully, should the publisher/author request it. I've tried to reach out to the publishers online but couldn't find any contact details like e-mail addresses. However, seeing that multiple audiobook readings, notes, and other adaptations exist online freely without having been taken down, we have decided to publish these translations.
 
 - **I don't know much Tamil, is there any way I can contribute?**  
@@ -32,6 +32,6 @@ Sarithra Sambavangal literally means "Historical Incidents". It is written by Va
 ---
 
 ## Contributing
-This site is licensed under the MIT License, meaning you too can contribute to it! From the appearance to the translations themselves! Everyone is welcome, especially translators. 
+This site is licensed under the GNU GPLv3 License, meaning you too can contribute to it, From the appearance to the translations themselves! Everyone is welcome, especially translators. 
 
 The initial scope of this site is to translate just 2 books fully, but in time we hope to expand to the third ICSE Class X Book, Rajaraja Chozhan. Me and Vishard do not have a copy of this book, so if anyone does have a copy, feel free to contribute. 
