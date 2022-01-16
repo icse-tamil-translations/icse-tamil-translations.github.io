@@ -1,6 +1,6 @@
 ## Chapter 6
 Author: Vaandu Mama  
-Translator: Vishard
+Translator: Vishard  
 ---  
 Today our country is riddled with food shortages and Farmer’s protests. But many centuries ago, an Indian had worked on land reforms, devising a system to measure land-tax and eradicated the suffering of the farmers.
 

@@ -1,6 +1,6 @@
 ## Chapter 1
 Author: Vaandu Mama  
-Translator: Derpitron
+Translator: Derpitron  
 ---  
 There was a great Chola emperor Rajaraja cholan whose strength and valour are immeasurable. He belonged to the lineage of Vijayalaya Cholas and was their eighth descendant. During his rule, the Cholas had grown powerful with their territory extending all over the east coast of India and its northern limit was upto the Narmada river. Rajaraja chozhan is known for the great temple he had built in his capital city of Thanjavur.
 

@@ -1,6 +1,6 @@
 ## Chapter 3
 Author: Vaandu Mama  
-Translator: Derpitron
+Translator: Derpitron  
 ---  
 The date May 9, 1540 is an important date in the history of India. It was the day on which a great king of this nation was born. He was born to protect the honour of his kingdom Mewar and to cherish the valour of its capital Chithore. That king's name is Maharana Pratap.
 

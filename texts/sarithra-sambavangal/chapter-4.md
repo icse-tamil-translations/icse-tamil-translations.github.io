@@ -1,6 +1,6 @@
 ## Chapter 4
 Author: Vaandu Mama  
-Translator: Vishard
+Translator: Vishard  
 ---  
 The Valour of the Rajput clan is a world-renowned wonder.The bravery of the Rajput clan is second to no  other clan in this world. T
 The Rajputs are honest and ever-thankful. It is said that even a coward who hears of the Rajput’s Valour will swing his sword.
