@@ -7,7 +7,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');/*Title Font*/
 @import url('https://fonts.googleapis.com/css2?family=Lusitana:wght@400;700&display=swap');/*Text Font*/
 
-h1, h2, h3, h4, h5, h6, p, strong, body {
+h1, h2, h3, h4, h5, h6, p, b, body {
 	font-family: 'Inter', sans-serif;
 	font-weight: 400;
 	font-size: 20px;
@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6, p, strong, body {
 	margin-top: 2%;
 	margin-bottom: 2%
 }
-h1, h2, h3, h4, h5, h6, strong {
+h1, h2, h3, h4, h5, h6, b {
 	font-weight: 700;
 }
 h1 {
@@ -30,7 +30,7 @@ h3 {
 	font-size: 1.338em;
 	text-align: center;
 }
-p, body, strong {
+p, body, b {
 	font-family: 'Lusitana', serif;
 	font-weight: 400;
 }
@@ -51,7 +51,7 @@ hr {
 		margin-left:2%;
 		margin-right:2%;
 	}
-	h1, h2, h3, h4, h5, h6, p, strong, body {
+	h1, h2, h3, h4, h5, h6, p, b, body {
 		text-align: center;
 	}
 	header, li, ul {
