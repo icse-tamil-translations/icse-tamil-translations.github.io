@@ -37,7 +37,7 @@ p, body, b {
 b {
 	font-weight: 700;
 }
-header, li, lh, ul {
+header {
 	margin-left: 2% !important; /*ugly important directive, to override default style*/
 	text-align: left !important;
 }
@@ -55,7 +55,7 @@ hr {
 	h1, h2, h3, h4, h5, h6, p, b, body {
 		text-align: center;
 	}
-	header, li, lh, ul {
+	header {
 		text-align: left;
 	}
 }
