@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6, p, b, body {
 	margin-left: 10%;
 	margin-right: 10%;
 	margin-top: 2%;
-	margin-botton: 2%
+	margin-botto: 2%
 }
 h1, h2, h3, h4, h5, h6, b {
 	font-weight: 700;
@@ -37,7 +37,13 @@ b {
 	font-weight: 700;
 }
 header, li, ul {
-	margin-left: 2%
+	margin-left: 2%;
+}
+hr {
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 3%;
+	margin-bottom: 4%;
 }
 @media only screen and (max-width: 700px) {
 	body, html {
