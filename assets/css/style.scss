@@ -16,34 +16,27 @@ h1, h2, h3, h4, h5, h6, p, b, body {
 	margin-top: 2%;
 	margin-botton: 2%
 }
-
 h1, h2, h3, h4, h5, h6, b {
 	font-weight: 700;
 }
-
 h1 {
 	font-size: 1.5em;
 }
-
 h2 {
 	font-size: 1.4em;
 }
-
 h3 {
 	font-size: 1.338em;
 	text-align: center;
 }
-
 p, body, b {
 	font-family: 'Lusitana', serif;
 	font-weight: 400;
 }
-
 b {
 	font-weight: 700;
 }
-
-header {
+header, li, ul {
 	margin-left: 2%
 }
 @media only screen and (max-width: 700px) {
@@ -53,5 +46,8 @@ header {
 	}
 	h1, h2, h3, h4, h5, h6, p, b, body {
 		text-align: center;
+	}
+	header, li, ul {
+		text-align: left;
 	}
 }
