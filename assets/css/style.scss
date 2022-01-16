@@ -7,17 +7,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');/*Title Font*/
 @import url('https://fonts.googleapis.com/css2?family=Lusitana:wght@400;700&display=swap');/*Text Font*/
 
-h1, h2, h3, h4, h5, h6, p, b, body {
+h1, h2, h3, h4, h5, h6 {
 	font-family: 'Inter', sans-serif;
-	font-weight: 400;
+	font-weight: 700;
 	font-size: 20px;
 	margin-left: 10%;
 	margin-right: 10%;
 	margin-top: 2%;
 	margin-bottom: 2%;
-}
-h1, h2, h3, h4, h5, h6, b {
-	font-weight: 700;
+	font-feature-settings: 'cv01' on, 'cv03' on, 'cv04' on, 'cv05' on, 'cv08' on, 'cv11' on; /*alternate 1, 6, 9, l, I, a glyphs*/
 }
 h1 {
 	font-size: 1.5em;
@@ -29,6 +27,7 @@ h3 {
 	font-size: 1.338em;
 	text-align: center;
 }
+
 p, body, b {
 	font-family: 'Lusitana', serif;
 	font-weight: 400;
@@ -36,9 +35,12 @@ p, body, b {
 b {
 	font-weight: 700;
 }
+
 header {
 	margin-left: 2% !important; /*ugly important directive, to override default style*/
 	text-align: left !important;
+	font-family: 'Inter', sans-serif;
+	font-feature-settings: 'cv01' on, 'cv03' on, 'cv04' on, 'cv05' on, 'cv08' on, 'cv11' on; /*alternate 1, 6, 9, l, I, a glyphs*/
 }
 hr {
 	margin-left: 20%;
@@ -46,6 +48,7 @@ hr {
 	margin-top: 3%;
 	margin-bottom: 23;
 }
+
 @media only screen and (max-width: 700px) {
 	body, html {
 		margin-left:2%;
