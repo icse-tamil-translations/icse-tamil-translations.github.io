@@ -13,4 +13,5 @@
 - [Chapter 11](veerapandiya-kattabomman/chapter-11)
 - [Chapter 12](veerapandiya-kattabomman/chapter-12)
 - [Chapter 13](veerapandiya-kattabomman/chapter-13)
+- [Chapter 14](veerapandiya-kattabomman/chapter-14)
 - [Chapter 15](veerapandiya-kattabomman/chapter-15)

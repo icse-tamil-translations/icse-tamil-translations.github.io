@@ -17,6 +17,6 @@ There was one particular youth who fought with great bravery. He caused the fall
 Kattabomman was left heartbroken after two of his close associates - Sundaralingam and Vellaiya Thevan, had been killed by the Britishers. 
 
 Even after causing so much loss to Panjalankurichi, Bannerman thought that he would not be able to enter the fort easily. He wrote to higher officials at Palayamkottai 
-“ 24 pound cannonballs, and a few more soldiers  are required to defeat Panjalankurichi ; only then can we arrest Kattabomman “. His request was accepted and the war began again. Both the sides had a marked increase in the loss of life.
+" 24 pound cannonballs, and a few more soldiers  are required to defeat Panjalankurichi ; only then can we arrest Kattabomman ". His request was accepted and the war began again. Both the sides had a marked increase in the loss of life.
 
 Finally, on 9th september 1799, Panjalankurichi fort was captured by the Britishers. Under Bannerman, the British entered the fort. They searched each and every place for Kattabomman. During this search they marvelled at the strength and  structure of Panchalankurichi fort. Even after searching through the whole of the fort Kattabomman was not found. The Britishers then unleashed this anger on the fort, wrecking many of the items inside it. Bannerman was infuriated when he heard that Kattabomman had escaped from the fort.
