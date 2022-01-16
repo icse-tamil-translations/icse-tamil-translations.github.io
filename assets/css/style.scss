@@ -39,6 +39,7 @@ b {
 }
 
 header, nav, lh b, lh, li a {
+	margin-left: 0% !important; /*ugly important directive, to override default style*/
 	text-align: left !important;
 	font-family: sans-serif !important;
 }
