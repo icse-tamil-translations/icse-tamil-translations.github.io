@@ -2,6 +2,8 @@
 Author: K. Jeevabharathi  
 Translator: Vishard
 
+---
+
 **A Summary of Kattabomman’s life**
 - Kattabomman was born on January 3, 1760 to Digvijaya Kattabomman and Aarumugathammal.
 - Kattabomman has two brothers - Kumarasamy (known as Oomaidurai) and Duraisingam. He also has 2 sisters - Isvara Vadivu and Duraikannu

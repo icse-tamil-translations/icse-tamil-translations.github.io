@@ -1,7 +1,9 @@
 ## Chapter 3
 Author: K. Jeevabharathi  
 Translator: Derpitron
----  
+
+---
+
 Veerapandiyan started growing as a valourous child. He learnt several martial arts right from his early age. Next to Veerapandiyan, his parents gave birth to another boy. He was named Kumarasamy. That child wasn't able to speak right from the beginning. Even though his parents tried to rectify it, the ailment couldn't be cured. However, that child was skilled in martial arts and became a talented warrior. He would grow up to become a right hand for Veerapandiya Kattabomman. He was fondly called by the people as Oomaithurai (dumb chief).
 
 Next to that Veerapandiya Kattabomman's parents had another male child. He was named Durai Singam. After this, his parents begot two daughters named Isvara vadivu and Durai Kannu. Thus Veerapandiya Kattabomman had grown up with two younger brothers and two younger sisters. Later in due time, Veerapandiya Kattabomman was married to a lady named Veerajakkammal. Then Veerapandiya Kattabomman became the 47th king of Panchalankurichi. He divided the 96 villages under Panchalankurichi into six zones and ruled in fair and just manner. His brother Oomaithurai assisted him as a chief commander.

@@ -1,7 +1,9 @@
 ## Chapter 3
 Author: Vaandu Mama  
-Translator: Derpitron  
----  
+Translator: Derpitron
+
+---
+
 The date May 9, 1540 is an important date in the history of India. It was the day on which a great king of this nation was born. He was born to protect the honour of his kingdom Mewar and to cherish the valour of its capital Chithore. That king's name is Maharana Pratap.
 
 His grandfather Sangram Singh also known as Rana Sanga was a great ruler who ruled Mewar very efficiently. But his son Uday Singh was totally opposite to this. He was a cowardly and lazy ruler who was interested only in merrymaking. He neglected the duties of a king but only enjoyed the privileges. Due to this, Mewar lost its glory and even lost some of its territorial lands to the Mughals. Uday Singh had several children through many of his wives. Among them, Pratap Singh, Sakthi Singh and Jagmal were important ones. When it came to talent and bravery Pratap was excellent. Sakthi was a brave warrior. Jagmal was relatively less talented in comparison to others. However, since Jagmal was the son of Uday Singh's favourite wife, he got the chance to the throne even though Pratap was better.

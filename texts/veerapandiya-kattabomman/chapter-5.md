@@ -1,7 +1,9 @@
 ## Chapter 5
 Author: K. Jeevabharathi  
 Translator: Derpitron
----  
+
+---
+
 Even though the victory against Pulithevar was good news for the British, they were very much concerned about losing to Velu Nachiyar. If their opponents like Dindugul Haider Ali, Virupakshi Gopala Naicker, Kerala Verma got together and formed a formidable force, then it could cause havoc for the British. So their strategy from then onwards changed accordingly.
 
 The Britishers concluded that they cannot take control over the country by just being tax collectors like this. Hence they decided to get into action and start active territorial expansion. As a part of this an agreement was made between the British and Nawabs. As per this agreement, the Britishers gained administrative privileges for Palayams. Accordingly it was agreed that Britishers would set up a revenue board and assign a post called collector who would be in-charge of collecting taxes from Palayakkarars. Apart from this, the Britishers also gained the authority to survey the Palayams and restructure their boundaries. So from being pseudo rulers they became the actual rulers of the Palayams.

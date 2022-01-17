@@ -1,7 +1,9 @@
 ## Chapter 4
 Author: K. Jeevabharathi  
 Translator: Derpitron
----  
+
+---
+
 The history of invasion started in India with the time of Greek king Alexander. Several centuries later, Mohammedan rulers invaded India on several occasions. Muhammad of Ghazni was prominent among them. Later, Mughals invaded the country and caught hold of almost the entire Indian territory including parts of Tamilnadu. After that, the colonial powers like Portuguese, Danish, French, Dutch and British who originally came to India for trade and later tried to colonise the country. The Portuguese settled in Goa, Danish took hold of Tarangampadi, a town in South Arcot district in Tamilnadu. The French had establishments in Pondicherry and Karaikal. The Britishers bought Chennai (Madras) for lease from Chandragiri king. There was stiff competition between the Britishers and the French for claiming the Indian territory.
 
 The tussle between two Mughal chieftains Chanda Sahib and Anwaruddin served as an opportunity for the French and the British. Chanda Sahib was supported by the French and Anwaruddin had British backing. Both sides went on a fierce battle and Anwaruddin was killed in it. But the battle didn't end. His son Muhammad Ali took over and fought the battle. The war lasted for a couple of years and finally Mohammed Ali was victorious. He succeeded as the next Nawab but he was trapped in the British ploy. The Britishers had imposed him with several charges for the help they offered in the war in the way of soldiers and weapons. Muhammad Ali didn't have that much money so paid only a part of it, but the people of his kingdom owed him tax money. So he asked the Britishers to collect the  money directly from the people. The Britishers then imposed additional charges for collecting taxes from the people. And the cost he had to pay back kept escalating. Finally it was decided that the Britishers would have taken over the Palayams under the Nawab rule as a pledge for the amount of money Nawab had to pay back.

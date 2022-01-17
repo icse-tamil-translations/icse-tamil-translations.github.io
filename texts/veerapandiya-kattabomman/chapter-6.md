@@ -1,7 +1,9 @@
 ## Chapter 6
 Author: K. Jeevabharathi  
 Translator: Derpitron
----  
+
+---
+
 Alan had reported his defeat to his higher officials. This made the Britishers even more vengeful against Kattabomman. In the meantime Kattabomman also guessed that Britishers would be infuriated by this defeat and would come back with bigger plans and would cause trouble. So he was thinking of ways to tackle the British. He thought of colluding with other Palayams in order to go up against the British. In lieu of that, he met the Palayakkarars of Nagalapuram, Ezhayirampannai, Kolarpatti, Kadalkudi and Kulathur and discussed about the need to oppose the British and that some Palayakkarars were scaredly supporting the British. So this paved the way to form a grand alliance against the British.
 
 Meanwhile the Britishers wanted to subdue Kattabomman somehow. So they met Ettapa Nayakkan and discussed this with him. Ettappan said that he was constantly facing a threat from Kattabomman since he has been in support of the British. So he asked the Britishers to put an end to this nuisance. Then, Britishers thought of doing something that would make Kattabomman meet and discuss with them and at the same time it should have something beneficial to Ettappan too. As a first step, they tried to negotiate with Veerapandiya Kattabomman through letters. And Kattabomman as usual didn't respond to them and was concentrating on forming an alliance with other Palayakkarars. So they annexed two villages Arungulam and Subbalapuram from Panchalankurichi into Ettayapuram under the pretext of restructuring the boundaries of Palayams. By doing this, the British also felt Ettappan would be benefited. However Kattabomman didn't respond to these tantrums. He was busy concentrating on his efforts of forming an opposition against the British.
