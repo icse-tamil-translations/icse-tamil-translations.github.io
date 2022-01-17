@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+:root {
+	scroll-behavior: smooth; /*Smooth scrolling :o */
+}
+
 html {
 	margin-left: 10%;
 	margin-right: 10%;
