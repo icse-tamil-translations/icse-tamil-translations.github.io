@@ -7,13 +7,13 @@ This site hosts the English translations of two ICSE Class X Tamil Textbooks. Wo
 \-Derpitron
 
 ---
-## Veerapandiya Kattabomman
+## [Veerapandiya Kattabomman](texts/veerapandiya-kattabomman)
 
 Veerapandiya Kattabomman is the story of a brave Tamil King (Veerapandiya Kattabomman), written by **K. Jeevabharathi**. This story details Kattabomman's struggle of attrition against the British East India Company, set in 18th century India. we hope that by translating it, we can bring an appreciation of the early freedom fighters to you, the reader.
 
 ---
 
-## Sarithra Sambavangal
+## [Sarithra Sambavangal](texts/sarithra-sambavangal)
 
 Sarithra Sambavangal literally means "Historical Incidents". It is written by Vaandu Mama. It's not a contiguous story, moreso a collection of several historical stories set throughout the myriad of ages and places of India. From the valorous Maharana Pratap's fight against the Mughals, to the quest of a Pallava sculptor boy's quest to find his father. Vaandu Mama, in the foreword of this book, expresses his view that he's only been able to capture a mere water droplet, compared to the ocean of stories that India contains.
 
