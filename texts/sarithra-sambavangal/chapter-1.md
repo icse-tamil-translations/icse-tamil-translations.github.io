@@ -1,6 +1,6 @@
-## Chapter 1
+Hydino## Chapter 1
 Author: Vaandu Mama  
-Translator: Derpitron
+Translator: hydino2085143
 
 ---
 

@@ -1,4 +1,4 @@
-## Chapter 2
+hydino2085143Hydino## Chapter 2
 Author: Vaandu Mama  
 Translator: Derpitron
 
