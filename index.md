@@ -1,10 +1,10 @@
-hydino2085143Hydino# Derpitron and Vishard's English Translations
+# hydino2085143 and Vishard's English Translations
 
 ## Welcome to our site!
 
 This site hosts the English translations of two ICSE Class X Tamil Textbooks. Wow, that's a mouthful. Apologies for the wordy URL and name, we hope you'll find this site useful for your studies! To get started, just click "Texts" at the header. Feel free to use a screen reader or "reader mode" in your browser!
 
-\-Derpitron
+\-hydino2085143
 
 ---
 ## [Veerapandiya Kattabomman](texts/veerapandiya-kattabomman)

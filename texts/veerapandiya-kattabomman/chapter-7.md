@@ -1,6 +1,6 @@
-hydino2085143Hydino## Chapter 7
+## Chapter 7
 Author: K. Jeevabharathi  
-Translator: Derpitron
+Translator: hydino2085143
 
 ---
 

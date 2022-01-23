@@ -1,6 +1,6 @@
-hydino2085143Hydino## Chapter 5
+## Chapter 5
 Author: K. Jeevabharathi  
-Translator: Derpitron
+Translator: hydino2085143
 
 ---
 
