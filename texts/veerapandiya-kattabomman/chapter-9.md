@@ -14,9 +14,9 @@ On sept 4 1799, a 4-thousand men strong army, headed by major John Bannerman of 
 
 It was Ettapa Nayakan, the ruler of Ettayapuram, who had given the British the information that Danapathi Pillai, Oomaithurai and other key soldiers would not be in Panjalankuruchi at that time! The British surrounded Panjalankurichi fort. O'Reilly, Bruce, Douglas, Collins, Blake, Barmeekes and other British commanders surrounded the fort, waiting for the best time to attack. Ettappa Nayakan also sent 1000 men to help the British. The British forces from Kayathaaru and Kovilpatti also arrived to help them. A regiment of horses, led by ieutenant Douglas also surrounded Panjalankurichi, 
 
-Vellaiya thevan, Sundaralingam, Veera Badhra Pillai (Danapathi Pillai’s brother) and Chithaiya Nayakar were all waiting for the command of Kattabomman to attack the British. Banerman sent Dubash Ramalinga Mudaliar, Havildar Ibrahim Khan and Arikkaaran Saami to meet Kattabomman inside the fort. 
+Vellaiya thevan, Sundaralingam, Veera Badhra Pillai (Danapathi Pillai's brother) and Chithaiya Nayakar were all waiting for the command of Kattabomman to attack the British. Banerman sent Dubash Ramalinga Mudaliar, Havildar Ibrahim Khan and Arikkaaran Saami to meet Kattabomman inside the fort. 
 
-Because the 3 were sent as messengers and their intention was not to fight, Kattabomman’s guards let them in without opposing. Ramalinga Mudaliar said to Kattabomman "Your minister Danapathi Pillai has to be handed over to us, and the tax is to be payed, or else there will be huge consequences. Bannerman sent me to ask of your opinion and return "
+Because the 3 were sent as messengers and their intention was not to fight, Kattabomman's guards let them in without opposing. Ramalinga Mudaliar said to Kattabomman "Your minister Danapathi Pillai has to be handed over to us, and the tax is to be payed, or else there will be huge consequences. Bannerman sent me to ask of your opinion and return "
 
 Kattabomman replied "First they ask me for undue tax money. Because I blatantly refused, they ask me to turn in my minister now. Since the British are so determined, they force me to make a decision as well"
 
