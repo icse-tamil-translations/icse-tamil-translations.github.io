@@ -23,5 +23,5 @@ Even after causing so much loss to Panjalankurichi, Bannerman thought that he wo
 
 Finally, on 9th september 1799, Panjalankurichi fort was captured by the Britishers. Under Bannerman, the British entered the fort. They searched each and every place for Kattabomman. During this search they marvelled at the strength and structure of Panchalankurichi fort. Even after searching through the whole of the fort Kattabomman was not found. The Britishers then unleashed this anger on the fort, wrecking many of the items inside it. Bannerman was infuriated when he heard that Kattabomman had escaped from the fort.
 
-[Previous](./chapter-11.md)
-[Next](./chapter-13.md)
+<span class="prev">[Previous](./chapter-11.md)</span>
+<span class="next">[Next](./chapter-13.md)</span>

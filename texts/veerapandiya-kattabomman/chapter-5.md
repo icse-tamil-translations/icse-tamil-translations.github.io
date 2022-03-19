@@ -16,5 +16,5 @@ Kattabomman's facial reaction changed as soon as the topic of tax was discussed.
 
 Finally Britishers thought of teaching a lesson to Kattabomman. So they sent a huge army under the command of a British commander, Alan. The army had gathered around Panchalankurichi fort and cannons started to bombard the walls of Panchalankurichi fort. However soldiers from within the fort launched a spear attack through the breached walls of the fort. They fought an intense war against the British forces. They would attack the British troops and hide when the British tried to fire their guns in retaliation. Then they would once again attack with their spears and then go back into hiding. This kept continuing on and on until Alan realised that he was fighting a losing battle. So he decided to retreat and thus the British troops fled from the place. This became an example in history that strength isn't something that's always gauged by weapons. It's also the spirit at heart that counts.
 
-[Previous](./chapter-4.md)
-[Next](./chapter-6.md)
+<span class="prev">[Previous](./chapter-4.md)</span>
+<span class="next">[Next](./chapter-6.md)</span>

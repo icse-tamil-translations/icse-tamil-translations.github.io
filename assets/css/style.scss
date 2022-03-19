@@ -20,9 +20,23 @@ h1, h2, h3, h4, h5, h6, nav > *, footer {
 }
 
 footer {
-	margin-top: 3%;
+	margin-top: 5%;
 	text-align: center;
 	justify-content: center;
+}
+
+span.prev, span.next {
+	font-family: sans-serif;
+}
+
+/*Previous button style*/
+span.prev {
+	justify-content: left;
+}
+
+/*Next button style*/
+span.next {
+	justify-content: right;
 }
 
 hr {

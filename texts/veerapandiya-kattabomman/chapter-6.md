@@ -28,5 +28,5 @@ Meanwhile Jackson, who was very keen on bringing down Kattabomman, tried to just
 
 This case was taken up at the British High command and an investigation was undertaken. Since Kattabomman had the favor of Davison and his side of evidence was strong, the Britishers declared Jackson guilty and stripped him from his position. Kattabomman was acquitted from his false charges and Danapathi pillai was released. The Britishers also invited Kattabomman to Trichy headquarters and sought a formal apology for what had happened. So Jackson's efforts of falsely accusing Kattabomman went down in vain.
 
-[Previous](./chapter-5.md)
-[Next](./chapter-7.md)
+<span class="prev">[Previous](./chapter-5.md)</span>
+<span class="next">[Next](./chapter-7.md)</span>

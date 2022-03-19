@@ -22,5 +22,5 @@ After Putta's wife and mother fought with the enemies and attained martyrdom, Pu
 
 Akbar himself was a great warrior. True to the warrior spirit after seeing the bravery of Jaimal and Putta he said "These two 16 year olds have done wonders on the battlefield. Am I going to occupy this same country which raised such Bravehearts!". Akbar wanted to honour the two warriors and make their bravery immortal. He designed a Statue of the two riding their elephants near the entrance of his palace at Delhi, to honour their bravery.
 
-[Previous](./chapter-4.md)
-[Next](./chapter-6.md)
+<span class="prev">[Previous](./chapter-4.md)</span>
+<span class="next">[Next](./chapter-6.md)</span>

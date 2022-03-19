@@ -14,5 +14,5 @@ There lived a couple Katta karuppanan and Mutharuli in a village named Gevunagir
 
 There was a minister named Subramania pillai who served at the court of Veerapandiya Kattabomman. He was more famously known as Danapathi pillai. Thus Veerapandiya Kattabomman had members from various communities in various posts in his government. His team was solely based on merit and those with talent were welcomed irrespective of their family background. Veerapandiya Kattabomman with the strategic planning ability of Danapathi pillai and agile warriors like Oomaithurai, Vellaiya thevan and Katta karuppan Sundaralingam became a formbidable force among all other neighbouring Palayams. No one dared to mess with Panchalankurichi as they all feared the strength of Kattabomman's kingdom. In this way, the first three years of Kattabomman's rule was very impressive without any hindrances or opposition. But soon after that, trouble started to creep in.
 
-[Previous](./chapter-2.md)
-[Next](./chapter-4.md)
+<span class="prev">[Previous](./chapter-2.md)</span>
+<span class="next">[Next](./chapter-4.md)</span>

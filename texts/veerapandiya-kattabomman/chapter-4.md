@@ -18,5 +18,5 @@ The ruler of Sivagangai province Muthuvaduganathar had been avoiding paying taxe
 
 During this entire period, Panchalankurichi was attacked five times by the British. Once Veerapandiya Kattabomman's grandfather Pal Pandiyan ruled Panchalankurichi. And the remaining four times, Jagaveera Pandiyan, father of Veerapandiya Kattabomman, was the ruler. Neither of them had opposed the British. So we can't consider them as role models for Veerapandiya Kattabomman. So it's indeed clear that Pulithevar, Muthuramalinga sethupathi, Muthuvaduganathar and Velu nachiyar were ideal role models for Veerapandiya Kattabomman.
 
-[Previous](./chapter-3.md)
-[Next](./chapter-5.md)
+<span class="prev">[Previous](./chapter-3.md)</span>
+<span class="next">[Next](./chapter-5.md)</span>

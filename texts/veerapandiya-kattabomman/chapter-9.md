@@ -25,5 +25,5 @@ Kattabomman replied "First they ask me for undue tax money. Because I blatantly 
 
 The messengers were forced to return to Bannerman. After hearing from the messengers Bannerman raged with fury. On Sept 5 1799 at around 8 Am, he launched an attack on the North-western part of Panchalankurichi fort.
 
-[Previous](./chapter-7.md)
-[Next](./chapter-10.md)
+<span class="prev">[Previous](./chapter-7.md)</span>
+<span class="next">[Next](./chapter-10.md)</span>

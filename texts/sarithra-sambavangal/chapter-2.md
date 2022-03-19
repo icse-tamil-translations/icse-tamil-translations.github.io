@@ -12,5 +12,5 @@ Now that things were over with the outside invaders, Chandragupta shifted his fo
 
 Like this, Chandragupta had a large empire that extended from Bengal in the east to Hindukush in the west and Himalayas in the north to Narmada in the south. He ruled the country for 24 years with the able guidance of the political expert Chanakya. So this is the story of how a humble cowherd boy went on to become the ruler of a great empire.
 
-[Previous](./chapter-1.md)
-[Next](./chapter-3.md)
+<span class="prev">[Previous](./chapter-1.md)</span>
+<span class="next">[Next](./chapter-3.md)</span>

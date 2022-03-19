@@ -38,5 +38,5 @@ Slowly and steadily, Pratap had reclaimed all of his kingdom from the Mughals. H
 
 While in his death bed Pratap's face seemed like he was being troubled by some thought. One of his commanders noticed this and said that they have almost accomplished their dream of reclaiming Mewar. He also added that Chithore was pending and assured that they would capture that too. To these words, Pratap replied feebly that he was concerned whether his successors would be steadfast like him. In this regard, he narrated an incident from his son Amar Singh's childhood. While they stayed in the forests, once a piece of straw fell from the hut onto Amar's head. So he mumbled as to why he had to live in such a place. This left a lasting impact on Maharana Pratap. He felt concerned that his son would get accustomed to royal pleasures rather than safeguarding the kingdom. Once the commanders heard this reply of Pratap, they assured that they wouldn't let Amar deviateAmar to deviate from the welfare of the kingdom and would constantly engage him towards fighting for sovereignty of Mewar kingdom. So they requested Pratap to stay at peace. Thus, it's clear that Maharana Pratap is a brave son of this country who thought about the nation's welfare even in the brink of his death.
 
-[Previous](./chapter-2.md)
-[Next](./chapter-4.md)
+<span class="prev">[Previous](./chapter-2.md)</span>
+<span class="next">[Next](./chapter-4.md)</span>

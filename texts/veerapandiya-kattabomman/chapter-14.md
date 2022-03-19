@@ -35,5 +35,5 @@ Vijay Rangunathan Thondaiman was rewarded by the English for helping them captur
 
 Also the English rewarded Ettappan with the village "Sivanyanapuram" for his contribution in the capture of Kattabomman. The 79 villages present in Paanjalankuricchi was annexed into Ettayapuram. The English gave rewards to all those who helped them capture Kattabomman. VPk was born in 3.1.1760 and died on 16.10.1799. He lived for 39 years. It has been 204 years since he passed away and many more to come. But Wherever there is a freedom battle, he will be remembered fondly.
 
-[Previous](./chapter-13.md)
-[Next](./chapter-15.md)
+<span class="prev">[Previous](./chapter-13.md)</span>
+<span class="next">[Next](./chapter-15.md)</span>

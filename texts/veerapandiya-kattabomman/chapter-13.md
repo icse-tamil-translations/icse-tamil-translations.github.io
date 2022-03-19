@@ -37,5 +37,5 @@ Naagalapuram's ruler Iravappa Nayakar, Ezhaiyiram Pannai's king Kaalai Vanniyar,
 
 Kattabomman sped on northwards, on his favourite horse Muthurami.
 
-[Previous](./chapter-12.md)
-[Next](./chapter-14.md)
+<span class="prev">[Previous](./chapter-12.md)</span>
+<span class="next">[Next](./chapter-14.md)</span>

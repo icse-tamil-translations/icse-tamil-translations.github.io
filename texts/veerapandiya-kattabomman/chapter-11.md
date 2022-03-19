@@ -18,5 +18,5 @@ The next day, the sound of exploding ammunition was heard in Panjalankuruchi for
 
 Even though there was more loss for the Britishers, Kattabomman was heartbroken at the loss of a brilliant warrior and aide . That is why, even when he was victorious, he did not rejoice. His eyes filled with tears in remembrance of Sundaralingam.
 
-[Previous](./chapter-10.md)
-[Next](./chapter-12.md)
+<span class="next">[Previous](./chapter-10.md)</span>
+<span class="next">[Next](./chapter-12.md)</span>

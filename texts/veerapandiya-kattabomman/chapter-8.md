@@ -20,5 +20,5 @@ Ettappan immediately interrupted with fear and quipped that Kattabomman was call
 
 Ettappan's mission of meeting Kattabomman in disguise had come to a futile end. An irritated Ettappan went to Tirunelveli and narrated this incident to Lusington.
 
-[Previous](./chapter-7.md)
-[Next](./chapter-9.md)
+<span class="prev">[Previous](./chapter-7.md)</span>
+<span class="next">[Next](./chapter-9.md)</span>
