@@ -1,1 +1,5 @@
 google_analytics: G-CT6865R7W3
+
+url: "https://hydino2085143.github.io/icse-tamil-translations" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
