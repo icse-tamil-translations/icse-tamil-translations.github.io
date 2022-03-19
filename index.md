@@ -32,7 +32,21 @@ Sarithra Sambavangal literally means "Historical Incidents". It is written by Va
 - **Where can I give feedback on the site?**  
   Feel free to visit the repository and open an Issue, or start a Discussion. Note: You will require a GitHub account in order to participate and contribute. However, GitHub accounts are free to sign up for, and you can create an account using your pre-existing Microsoft account, if you have one.
 
+- **What is the meaning of some text formats? E.g bold, italic type**
+  **Bold** - Headings, subheadings, or important text which should be read before the normal text.
+  *Italic* - Text added by the translators themselves which is not included in the original Tamil text, e.g a commentary or inline explanation.
+
 ---
+
+## Contributors List
+These fine fellows helped make the site what it is today, through translation, design, feedback, and much more.  
+To those who contribute to this website, feel free to add your username here alongside what role you played, as well as a contact method if you so choose (Discord username, email address, etc.)
+
+ - **[hydino2085143](https://github.com/hydino2085143)** - Webmaster, site design, translating Veerapandiya Kattabomman chapters 1-8, Sarithra Sambavangal chapters 1-3. You can contact me at [priya.aravamuthan@protonmail.com](mailto:priya.aravamuthan@protonmail.com)
+ - **[Vishard-006](https://github.com/Vishard-006)** - Site management, translating Veerapandiya Kattabomman chapters 9-13 and 15, Sarithra Sambavangal chapters 4-6
+ - **UpbeatBowler** - translating Veerapandiya Kattabomman chapter 14
+
+--- 
 
 ## Contributing
 These translated texts, the associated website, and the rest of the project, is licensed under the CC-BY-NC 4.0 License, meaning you too can contribute to it, From the appearance to the translations themselves! Everyone is welcome, especially translators. 
