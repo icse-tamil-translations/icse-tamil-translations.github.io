@@ -10,7 +10,7 @@ html {
 	margin-bottom: 2%;
 }
 
-p, body, b {
+p, body, b, a {
 	font-family: serif;
 	font-size: 20px;
 }
@@ -31,11 +31,13 @@ span.prev, span.next {
 
 /*Previous button style*/
 span.prev {
+	text-align: left;
 	justify-content: left;
 }
 
 /*Next button style*/
 span.next {
+	text-align: right;
 	justify-content: right;
 }
 
