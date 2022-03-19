@@ -2,7 +2,7 @@
 
 ## Welcome to our site!
 
-This site hosts the English translations of two ICSE Class X Tamil Textbooks. Wow, that's a mouthful. Apologies for the wordy URL and name, we hope you'll find this site useful for your studies! To get started, just click "Texts" at the header. Feel free to use a screen reader or "reader mode" in your browser!
+This site hosts the English translations of two ICSE Class X Tamil Textbooks. Wow, that's a mouthful. Apologies for the wordy URL and name, we hope you'll find this site useful for your studies! To get started, just click "Texts" at the header. Feel free to use a screen reader or "reader mode" in your browser in case you don't like the barebones look of the site!
 
 \-hydino2085143
 
@@ -21,7 +21,7 @@ Sarithra Sambavangal literally means "Historical Incidents". It is written by Va
 
 ## FAQ
 - **What license does this project use?**
-  This project, including both the translation texts themselves as well as the source code of the website, uses the [CC-BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/) This means that any copies made of this project must include attributions to the project authors (Hydino2085143 and Vishard-006), and you are not allowed to monetize or commercially use this project. However, any new project you create may be published with a different license. This is NOT legal advice, please read the full corpus of the license for full details.
+  This project, including both the translation texts themselves as well as the source code of the website, uses the [CC-BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/) This means that any copies made of this project must include attributions to the project authors (hydino2085143 and Vishard-006), and you are not allowed to monetize or commercially use this project. However, any new project you create may be published with a different license. This is NOT legal advice, please read the full corpus of the license for full details.
 
 - **Do you have permission from the original authors/publishers to translate and publish these translations, that too under the CC-BY-NC License?**  
   **No.** We do not have any explicit permission to publish these translations. We are fully willing to take down these translations fully, should the publisher/author request it. I've tried to reach out to the publishers online but couldn't find any contact details like e-mail addresses. However, seeing that multiple audiobook readings, notes, and other adaptations exist online freely without having been taken down, we have decided to publish these translations, especially seeing as how this project can be considered a Transformative Work.

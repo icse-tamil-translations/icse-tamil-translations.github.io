@@ -1,4 +1,4 @@
-Hydino## Chapter 1
+## Chapter 1
 Author: Vaandu Mama  
 Translator: hydino2085143
 
