@@ -42,7 +42,7 @@ Sarithra Sambavangal literally means "Historical Incidents". It is written by Va
 These fine fellows helped make the site what it is today, through translation, design, feedback, and much more.  
 To those who contribute to this website, feel free to add your username here alongside what role you played, as well as a contact method if you so choose (Discord username, email address, etc.)
 
- - **[hydino2085143](https://github.com/hydino2085143)** - Webmaster, site design, translating Veerapandiya Kattabomman chapters 1-8, Sarithra Sambavangal chapters 1-3. You can contact me at [priya.aravamuthan@protonmail.com](mailto:priya.aravamuthan@protonmail.com)
+ - **[hydino2085143](https://github.com/hydino2085143)** - Webmaster, site design, translating Veerapandiya Kattabomman chapters 1-8, Sarithra Sambavangal chapters 1-3
  - **[Vishard-006](https://github.com/Vishard-006)** - Site management, translating Veerapandiya Kattabomman chapters 9-13 and 15, Sarithra Sambavangal chapters 4-6
  - **UpbeatBowler** - translating Veerapandiya Kattabomman chapter 14
 
@@ -52,3 +52,5 @@ To those who contribute to this website, feel free to add your username here alo
 These translated texts, the associated website, and the rest of the project, is licensed under the CC-BY-NC 4.0 License, meaning you too can contribute to it, From the appearance to the translations themselves! Everyone is welcome, especially translators. 
 
 The initial scope of this site is to translate just 2 books fully, but in time we hope to expand to the third ICSE Class X Book, Rajaraja Chozhan. We do not have a copy of this book, so if anyone does have a copy, feel free to contribute. 
+
+Any communication relating to this website can be posted on this website's [repository's Discussions tab](https://github.com/hydino2085143/icse-tamil-translations/discussions)
