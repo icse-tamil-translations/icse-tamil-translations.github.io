@@ -21,6 +21,9 @@ Because the 3 were sent as messengers and their intention was not to fight, Katt
 Kattabomman replied "First they ask me for undue tax money. Because I blatantly refused, they ask me to turn in my minister now. Since the British are so determined, they force me to make a decision as well"
 
 "My minister was not involved in the Srivaigundam incident that the British accused him of. In fact, such an incident never happened at all. If indeed, my minister is guilty of such a crime, it is upto me and the people of this land to punish him. Why should I turn in my minister to the British, who do not even belong here "
-"I know the reason they are desperate to get my minister. First they will take him, then they will take me, then the whole of Panjalankurichi. This is their plan. But it will never succeed, as long as I live. You may leave now!” 
+"I know the reason they are desperate to get my minister. First they will take him, then they will take me, then the whole of Panjalankurichi. This is their plan. But it will never succeed, as long as I live. You may leave now!" 
 
 The messengers were forced to return to Bannerman. After hearing from the messengers Bannerman raged with fury. On Sept 5 1799 at around 8 Am, he launched an attack on the North-western part of Panchalankurichi fort.
+
+[Previous](./chapter-7.md)
+[Next](./chapter-10.md)

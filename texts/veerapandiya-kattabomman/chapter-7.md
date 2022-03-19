@@ -15,3 +15,6 @@ Kattabomman also decided to meet him at Kamuthi. However he went grandly with hi
 "As a friendly gesture I tried to oblige to your request and came from Panchalankurichi to meet you. But after coming here, it's been eight days and you haven't met me. I've also asked about my weapons confiscated during the ordeal with Jackson. There's no reply to that yet. On the contrary, you're falsely accusing my minister of a crime that never happened. And finally you're keen on collecting the taxes. I've already made myself clear that I won't pay any tax to the British since the Britishers don't have any right to collect tax from us natives. I've to reiterate what I already told Alan. But what to do? Even if officers change, their mentality doesn't change"
 
 After writing such a reply Kattabomman decided to go to Panchalankurichi since he felt that there was no use in meeting Lusington. It is indeed peculiar that this meeting between Lusington and Kattabomman didn't happen at all considering the fact that they stayed just three buildings away while they were at Kamuthi.
+
+[Previous](./chapter-6.md)
+[Next](./chapter-8.md)

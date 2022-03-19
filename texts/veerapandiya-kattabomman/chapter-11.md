@@ -17,3 +17,6 @@ A similar incident happened in Kattabomman's life as well. While fighting agains
 The next day, the sound of exploding ammunition was heard in Panjalankuruchi fort. The Britisher's store of ammunition had been destroyed. Everyone inside the fort was happy - except Kattabomman. Because Kattabomman knew that Sundaralingam too would have been burned up along with the Britisher's ammunition. This victory had come only because Sundaralingam set himself on fire and sacrificed his life!
 
 Even though there was more loss for the Britishers, Kattabomman was heartbroken at the loss of a brilliant warrior and aide . That is why, even when he was victorious, he did not rejoice. His eyes filled with tears in remembrance of Sundaralingam.
+
+[Previous](./chapter-10.md)
+[Next](./chapter-12.md)

@@ -18,3 +18,5 @@ Translator: Vishard
 - On October 5, 1799, Kattabomman was sent to Kayathar to be imprisoned there
 - On October 16, 1799, Kattabomman was hanged on a Tamarind tree near Kayathar
 - Kattabomman served as king of Panjalankurichi for 9 years, 8 months and 14 days
+
+[Previous](./chapter-14.md)

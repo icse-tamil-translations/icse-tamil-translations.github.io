@@ -19,3 +19,6 @@ Kattabomman became furious upon hearing Ettappan's words. He sarcastically asked
 Ettappan immediately interrupted with fear and quipped that Kattabomman was calling the Britishers as foreigners in each of his breaths when he himself was indeed a foreigner. Upon hearing these words, Vellaiya thevan and Oomaithurai were furious and were about to draw out their swords. But Veerapandiya Kattabomman stopped them and replied that he acknowledges himself to be of Telugu descent and also said that it's the same case for Ettappan as well. Both of their ancestors were from Andhra only. But one crucial difference between the two of them Kattabomman opposed the British who were completely alienated people to this land whereas Ettappan was fond of serving them loyally by selling the country and its people to those strangers. Finally Kattabomman also cautioned Ettappan to go back the way he came without infuriating them with his rants if he didn't want to face any dire consequence.
 
 Ettappan's mission of meeting Kattabomman in disguise had come to a futile end. An irritated Ettappan went to Tirunelveli and narrated this incident to Lusington.
+
+[Previous](./chapter-7.md)
+[Next](./chapter-9.md)

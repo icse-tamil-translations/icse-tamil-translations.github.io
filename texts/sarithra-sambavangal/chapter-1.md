@@ -20,3 +20,4 @@ Meanwhile the boy ran hurriedly to where his legs took him. In the midst of dark
 
 Later, they went to the temple site and rectified it as per Balasirpi's plans and the temple was erected majestically. The king was happy about how such a magnificent temple was built. He profusely rewarded all the sculptors with gifts and treasure. He specially rewarded Balasirpi and his father Somavarman. This is how the temple came into being and still stands tall to talk the laurels of our ancestors.
 
+[Next](./chapter-2.md)

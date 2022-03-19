@@ -27,3 +27,6 @@ After reaching Panchalankurichi, Veerapandiya Kattabomman wrote a letter to the 
 Meanwhile Jackson, who was very keen on bringing down Kattabomman, tried to justify his actions under the pretext that Kattabomman was involved in robbery. Jackson had threatened the Palayakkarars of Sivagiri and and made them write fake letters accusing Kattabomman of murder and robbery.
 
 This case was taken up at the British High command and an investigation was undertaken. Since Kattabomman had the favor of Davison and his side of evidence was strong, the Britishers declared Jackson guilty and stripped him from his position. Kattabomman was acquitted from his false charges and Danapathi pillai was released. The Britishers also invited Kattabomman to Trichy headquarters and sought a formal apology for what had happened. So Jackson's efforts of falsely accusing Kattabomman went down in vain.
+
+[Previous](./chapter-5.md)
+[Next](./chapter-7.md)

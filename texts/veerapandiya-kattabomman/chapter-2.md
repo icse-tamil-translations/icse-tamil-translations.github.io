@@ -13,3 +13,6 @@ The region called Azhagiya veerapandiyapuram was then ruled by a Pandiya king Ja
 Bommu loved hunting. One day when he went for a hunt he saw a strange thing happen. A dog was chasing a rabbit. The rabbit scarily kept running away. However upon reaching a certain location the rabbit stopped running. It rather turned back and faced the dog angrily. Finally the dog got intimidated by the gestures of the rabbit and left the place. Bommu was very surprised upon seeing this. He felt that this is not the ability of that rabbit but it is the greatness of that place. So he decided to build a fort at that particular place which seemed to be a source of courage. And he wanted to rule the kingdom from there. This is what later became the fort of Panchalankurichi.
 
 In this lineage, there was a king named Veerapandiya Nayakkar who was the 44th king of Panchalankurichi. He was succeeded by his son Pal Pandiyan who was the grandfather of Veerapandiya Kattabomman. Next to Pal Pandiyan, Panchalankuruchi was ruled by his son Jagaveera Pandiyan (Veerapandiya Kattabomman's father). Jaga Veerapandiyan and his wife Arumugathammal give birth to a baby boy. That boy was named Veerapandiyan. This boy went on to become the famous hero Veerapandiya Kattabomman.
+
+[Previous](./chapter-1.md)
+[Next](./chapter-3.md)
