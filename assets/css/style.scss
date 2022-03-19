@@ -30,13 +30,13 @@ span.prev, span.next {
 }
 
 /*Previous button style*/
-span.prev {
+span.prev a{
 	text-align: left;
 	justify-content: left;
 }
 
 /*Next button style*/
-span.next {
+span.next a{
 	text-align: right;
 	justify-content: right;
 }
