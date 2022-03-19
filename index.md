@@ -35,6 +35,8 @@ Sarithra Sambavangal literally means "Historical Incidents". It is written by Va
 - **What is the meaning of some text formats? E.g bold, italic type**
   **Bold** - Headings, subheadings, or important text which should be read before the normal text.
   *Italic* - Text added by the translators themselves which is not included in the original Tamil text, e.g a commentary or inline explanation.
+- **Do you use any Javascript or data analytics?**
+  Yes, we use Google Analytics to track website engagement, however by design, none of the webmasters know anything else about you. If you wish to not be tracked at     all, you can use a browser addon like NoScript which blocks Javascript for selected websites. 
 
 ---
 
