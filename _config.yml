@@ -1,5 +1,7 @@
-google_analytics: G-KR3YLZK4DZ
-
 url: "https://icse-tamil-translations.github.io" # the base hostname & protocol for your site
-plugins:
+title: ICSE Tamil Translations # Default page title
+
+google_analytics: G-KR3YLZK4DZ # Google analytics tracking ID
+
+plugins: # Custom Rubygems for Jekyll
   - jekyll-sitemap

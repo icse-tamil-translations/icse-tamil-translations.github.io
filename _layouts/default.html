@@ -11,7 +11,7 @@
 	<meta name="description" content="English translations for ICSE 9th and 10th std Tamil Textbooks">
 	{% include head-custom.html %}
 	<link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/icse-tamil-translations/icse-tamil-translations.github.io/main/assets/favicon.ico">
-	<title>ICSE Tamil Translations</title>
+	<title>{{ page.title | default: site.title }}</title>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
 	<script>
@@ -24,7 +24,6 @@
 	{% include google-analytics.html %}
 </head>
 <body>
-	<h1 class="project-name">{{ page.title | default: site.title }}</h1>
 	<div id="header">
 		<nav>
 			<a href="{{ site.url }}/texts">Texts</a>
