@@ -1,4 +1,4 @@
-# ICSE Tamil -> English Translations
+# ICSE Tamil to English Translations
 
 ## Welcome to our site!
 
