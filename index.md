@@ -1,4 +1,4 @@
-# hydino2085143 and Vishard's English Translations
+# ICSE Tamil -> English Translations
 
 ## Welcome to our site!
 
@@ -45,7 +45,7 @@ Sarithra Sambavangal literally means "Historical Incidents". It is written by **
 These fine people helped make the site what it is today, through translation, design, feedback, and much more.  
 To those who contribute to this website, feel free to add your username here alongside what role you played, as well as a contact method if you so choose (Social media handle, email address, etc.)
 
- - **[hydino2085143](https://github.com/hydino2084153)** - Webmaster, site design, translating Veerapandiya Kattabomman chapters 1-8, Sarithra Sambavangal chapters 1-3
+ - **[hydino2085143](https://github.com/hydino2085153)** - Webmaster, site design, translating Veerapandiya Kattabomman chapters 1-8, Sarithra Sambavangal chapters 1-3
  - **[Vishard-006](https://github.com/Vishard-006)** - Site management, translating Veerapandiya Kattabomman chapters 9-13 and 15, Sarithra Sambavangal chapters 4-6
  - **UpbeatBowler** - translating Veerapandiya Kattabomman chapter 14
 
