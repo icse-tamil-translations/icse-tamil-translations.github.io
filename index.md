@@ -30,7 +30,7 @@ Sarithra Sambavangal literally means "Historical Incidents". It is written by **
   Yes, there are many things you can contribute to! Helping with the designs, adding notes, dates, English grammar, etc. Just be sure to be polite and don't be afraid to ask for help or clarification.
   
 - **Where can I give feedback on the site?**  
-  Feel free to visit the repository and open an Issue, or start a Discussion. Note: You will require a GitHub account in order to participate and contribute. However, GitHub accounts are free to sign up for, and you can create an account using your pre-existing Microsoft account, if you have one.
+  Feel free to visit the [repository]({{ site.github_repository_url }}) and open an [Issue]({{ site.github.repository_url }}/issues), or start a [Discussion]({{ site.github.repository_url }}/discussions). Note: You will require a GitHub account in order to participate and contribute. However, GitHub accounts are free to sign up for, and you can create an account using your pre-existing Microsoft account, if you have one.
 
 - **What is the meaning of some of the text formatting? E.g bold, italic type**  
   **Bold** - Headings, subheadings, or important text which should be read before the normal text.  
@@ -56,4 +56,4 @@ These translated texts, the associated website, and the rest of the project, is 
 
 The initial scope of this site is to translate just 2 books fully, but in time we hope to expand to the third ICSE Class X Book, Rajaraja Chozhan. We do not have a copy of this book, so if anyone does have a copy, feel free to contribute. 
 
-Any communication relating to this website can be posted on this website's [repository's Discussions tab](https://github.com/icse-tamil-translations/icse-tamil-translations.github.io/discussions)
+Any communication relating to this website can be posted on this website's [repository's Discussions tab]({{ site.github.repository_url }}/discussions)
