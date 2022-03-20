@@ -1,3 +1,7 @@
+---
+title: Veerapandiya Kattabomman - Chapter 4
+---
+
 ## Chapter 4
 Author: K. Jeevabharathi  
 Translator: hydino2085143

@@ -1,3 +1,7 @@
+---
+title: Veerapandiya Kattabomman - Chapter 13
+---
+
 ## Chapter 13
 Author: K. Jeevabharathi  
 Translator: Vishard
@@ -8,7 +12,7 @@ The night Vellaiya Thevan was killed, Kattabomman wept inconsolably. He was extr
 
 Kattabomman, who had consoled thousands of people, could not be consoled now by Danapathi Pillai and Oomaithurai. All of them thought about what had to be done next. Danapathi Pillai said "The loss of Sundaralingam and Vellaiya Thevan are the two biggest gains for our enemies. On top of that, Bannerman acknowledged that fighting us was not as easy as he had thought and he has requested 24-pound cannonballs and more soldiers. With our current army, we will not be able to oppose the strengthened British, Therefore I suggest that we escape from here to Trichy and talk things out with the higher officials there". Oomaithurai immediately opposed this suggestion. Kattabomman's group  deliberated for a long time, and finally decided to follow Danapathi Pillai's plan. 
 
-On sept 7, 1799, around 10:30 pm, Kattabomman escaped from Panjalankurichi fort toward Naagalaapuram, with 50 soldiers, 7 horses, and a few of his trusted generals for company. 
+On Sept 7, 1799, around 10:30 pm, Kattabomman escaped from Panjalankurichi fort toward Naagalaapuram, with 50 soldiers, 7 horses, and a few of his trusted generals for company. 
 
 The Naagalaapuram ruler, Iravappa Nayakar, welcomed Kattabomman with open arms. Kattabomman informed him about what had happened so far and his intention to go to Trichy . Kattabomman continued his journey through Kosukundi towards Kolarpatti. 
 

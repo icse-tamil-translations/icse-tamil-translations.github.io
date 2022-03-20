@@ -1,3 +1,7 @@
+---
+title: Sarithra Sambavangal Chapter Selection
+---
+
 ## Sarithra Sambavangal Chapter Index
 ---
 - [Chapter 1](sarithra-sambavangal/chapter-01)

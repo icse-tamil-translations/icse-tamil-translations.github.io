@@ -1,3 +1,7 @@
+---
+title: Veerapandiya Kattabomman - Chapter 12
+---
+
 ## Chapter 12
 Author: K. Jeevabharathi  
 Translator: Vishard

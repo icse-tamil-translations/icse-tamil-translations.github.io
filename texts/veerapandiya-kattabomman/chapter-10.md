@@ -1,3 +1,7 @@
+---
+title: Veerapandiya Kattabomman - Chapter 10
+---
+
 ## Chapter 10
 Author: K. Jeevabharathi  
 Translator: Vishard

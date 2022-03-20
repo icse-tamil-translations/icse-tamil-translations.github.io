@@ -1,3 +1,7 @@
+---
+title: Sarithra Sambavangal - Chapter 4
+---
+
 ## Chapter 4
 Author: Vaandu Mama  
 Translator: Vishard

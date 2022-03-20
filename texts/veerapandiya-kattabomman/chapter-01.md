@@ -1,3 +1,7 @@
+---
+title: Veerapandiya Kattabomman - Chapter 1
+---
+
 ## Chapter 1
 Author: K. Jeevabharathi  
 Translator: hydino2085143

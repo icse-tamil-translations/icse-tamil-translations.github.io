@@ -1,3 +1,7 @@
+---
+title: Veerapandiya Kattabomman - Chapter 11
+---
+
 ## Chapter 11
 Author: K. Jeevabharathi  
 Translator: Vishard

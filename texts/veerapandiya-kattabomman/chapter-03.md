@@ -1,3 +1,7 @@
+---
+title: Veerapandiya Kattabomman - Chapter 3
+---
+
 ## Chapter 3
 Author: K. Jeevabharathi  
 Translator: hydino2085143

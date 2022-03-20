@@ -1,3 +1,7 @@
+---
+title: Book Selection
+---
+
 ## Available Texts:
 ---
 - [Veerapandiya Kattabomman](texts/veerapandiya-kattabomman)

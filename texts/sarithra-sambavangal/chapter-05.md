@@ -1,3 +1,7 @@
+---
+title: Sarithra Sambavangal - Chapter 5
+---
+
 ## Chapter 5
 Author: Vaandu Mama  
 Translator: Vishard

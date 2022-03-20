@@ -2,7 +2,7 @@
 
 ## Welcome to our site!
 
-This site hosts the English translations of two ICSE Class X Tamil Textbooks. Wow, that's a mouthful. Apologies for the wordy URL and name, we hope you'll find this site useful for your studies! To get started, just click "Texts" at the header. Feel free to use a screen reader or "reader mode" in your browser in case you don't like the barebones look of the site!
+This site hosts the English translations of two ICSE Class X Tamil Textbooks. Apologies for the wordy URL and name, we hope you'll find this site useful for your studies! To get started, just click "Texts" at the header. Feel free to use a screen reader or "reader mode" in your browser in case you don't like the barebones look of the site!
 
 \-hydino2085143
 

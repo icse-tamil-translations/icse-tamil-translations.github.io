@@ -1,3 +1,7 @@
+---
+title: Veerapandiya Kattabomman - Chapter 5
+---
+
 ## Chapter 5
 Author: K. Jeevabharathi  
 Translator: hydino2085143

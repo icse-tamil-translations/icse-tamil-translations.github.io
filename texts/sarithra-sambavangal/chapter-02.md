@@ -1,3 +1,7 @@
+---
+title: Sarithra Sambavangal - Chapter 2
+---
+
 ## Chapter 2
 Author: Vaandu Mama  
 Translator: hydino2085143

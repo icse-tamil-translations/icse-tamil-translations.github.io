@@ -1,3 +1,7 @@
+---
+title: Veerapandiya Kattabomman - Chapter 9
+---
+
 ## Chapter 9
 Author: K. Jeevabharathi  
 Translator: Vishard

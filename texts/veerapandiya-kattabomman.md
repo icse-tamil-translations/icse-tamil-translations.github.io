@@ -1,3 +1,7 @@
+---
+title: Veerapandiya Kattabomman Chapter Selection
+---
+
 ## Veerapandiya Kattabomman Chapter Index
 ---
 - [Chapter 1](veerapandiya-kattabomman/chapter-01)

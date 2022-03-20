@@ -1,3 +1,7 @@
+---
+title: Veerapandiya Kattabomman - Chapter 14
+---
+
 ## Chapter 14
 Author: K. Jeevabharathi  
 Translator: UpbeatBowler

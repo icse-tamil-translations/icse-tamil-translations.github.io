@@ -1,3 +1,7 @@
+---
+title: Sarithra Sambavangal - Chapter 3
+---
+
 ## Chapter 3
 Author: Vaandu Mama  
 Translator: hydino2085143

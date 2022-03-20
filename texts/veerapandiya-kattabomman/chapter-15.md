@@ -1,3 +1,7 @@
+---
+title: Veerapandiya Kattabomman - Chapter 15
+---
+
 ## Chapter 15
 Author: K. Jeevabharathi  
 Translator: Vishard
