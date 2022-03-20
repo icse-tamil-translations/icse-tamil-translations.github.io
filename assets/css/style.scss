@@ -15,14 +15,18 @@ p, body, b, a {
 	font-size: 20px;
 }
 
-h1, h2, h3, h4, h5, h6, nav > *, footer {
+h1, h2, h3, h4, h5, h6, nav > *, .	footer {
 	font-family: sans-serif;
 }
 
-.header, .footer {
+nav, .header, .footer {
 	float: center;
 	text-align: center;
 	justify-content: center;
+}
+
+.header a {
+	margin-right: 5%;
 }
 
 .footer {
