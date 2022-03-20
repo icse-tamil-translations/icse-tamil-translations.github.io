@@ -19,10 +19,15 @@ h1, h2, h3, h4, h5, h6, nav > *, footer {
 	font-family: sans-serif;
 }
 
-footer {
-	margin-top: 5%;
+.header, .footer {
+	float: center;
 	text-align: center;
 	justify-content: center;
+	margin-right: 5%;
+}
+
+.footer {
+	margin-top: 5%;
 }
 
 span.prev a, span.next a {
@@ -31,12 +36,14 @@ span.prev a, span.next a {
 
 /*Previous button style*/
 span.prev a {
+	float: left;
 	text-align: left;
 	justify-content: left;
 }
 
 /*Next button style*/
 span.next a {
+	float: right;
 	text-align: right;
 	justify-content: right;
 }
