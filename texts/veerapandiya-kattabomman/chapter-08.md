@@ -4,7 +4,7 @@ title: Veerapandiya Kattabomman - Chapter 8
 
 ## Chapter 8
 Author: K. Jeevabharathi  
-Translator: hydino2085143
+Translator: Derpitron
 
 ---
 

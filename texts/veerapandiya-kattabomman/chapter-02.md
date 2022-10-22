@@ -4,7 +4,7 @@ title: Veerapandiya Kattabomman - Chapter 2
 
 ## Chapter 2
 Author: K. Jeevabharathi  
-Translator: hydino2085143
+Translator: Derpitron
 
 ---
 

@@ -5,7 +5,7 @@ title: Sarithra Sambavangal - Chapter 1
 
 ## Chapter 1
 Author: Vaandu Mama  
-Translator: hydino2085143
+Translator: Derpitron
 
 ---
 

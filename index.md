@@ -4,7 +4,7 @@
 
 This site hosts the English translations of two ICSE Class X Tamil Textbooks. Apologies for the wordy URL and name, we hope you'll find this site useful for your studies! To get started, just click "Texts" at the header. Feel free to use a screen reader or "reader mode" in your browser in case you don't like the barebones look of the site!
 
-\-hydino2085143
+\-Derpitron
 
 ---
 ## [Veerapandiya Kattabomman](texts/veerapandiya-kattabomman)
@@ -21,7 +21,7 @@ Sarithra Sambavangal literally means "Historical Incidents". It is written by **
 
 ## FAQ
 - **What license does this project use?**
-  This project, including both the translation texts themselves as well as the source code of the website, uses the [CC-BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/) This means that any copies made of this project must include attributions to the project authors (hydino2085143 and Vishard-006), and you are not allowed to monetize or commercially use this project. This is NOT legal advice, please read the full license for accurate information, or consult a lawyer.
+  This project, including both the translation texts themselves as well as the source code of the website, uses the [CC-BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/) This means that any copies made of this project must include attributions to the project authors (Derpitron and Vishard-006), and you are not allowed to monetize or commercially use this project. This is NOT legal advice, please read the full license for accurate information, or consult a lawyer.
 
 - **Do you have permission from the original authors/publishers to translate and publish these translations, that too under the CC-BY-NC License?**  
   **No.** We do not have any permission to publish these translations. We are fully willing to comply with any takedowns, should the publisher/author request it. We've tried to reach out to the publishers online but couldn't find any contact details like e-mail addresses by which to contact them and ask for permission. These translations and the website itself have been made in the public interest as learning materials, and we would love to give any credits where it is due.
@@ -45,7 +45,7 @@ Sarithra Sambavangal literally means "Historical Incidents". It is written by **
 These fine people helped make the site what it is today, through translation, design, feedback, and much more.  
 To those who contribute to this website, feel free to add your username here alongside what role you played, as well as a contact method if you so choose (Social media handle, email address, etc.)
 
- - **[hydino2085143](https://github.com/hydino2085153)** - Webmaster, site design, translating Veerapandiya Kattabomman chapters 1-8, Sarithra Sambavangal chapters 1-3
+ - **[Derpitron](https://github.com/Derpitron)** - Webmaster, site design, translating Veerapandiya Kattabomman chapters 1-8, Sarithra Sambavangal chapters 1-3
  - **[Vishard-006](https://github.com/Vishard-006)** - Site management, translating Veerapandiya Kattabomman chapters 9-13 and 15, Sarithra Sambavangal chapters 4-6
  - **UpbeatBowler** - translating Veerapandiya Kattabomman chapter 14
 
