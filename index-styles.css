@@ -1,0 +1,202 @@
+:root {
+  --primary-color: #333;
+  --accent-color: #4CAF50;
+  --bg-color: #fafafa;
+  --text-color: #222;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  line-height: 1.6;
+}
+
+.container {
+  width: 90%;
+  max-width: 900px;
+  margin: auto;
+  padding: 1rem;
+}
+
+.navbar {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 0.5rem 0;
+}
+
+.navbar .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.logo-title img {
+  height: 30px;
+}
+
+.logo {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: white;
+}
+
+.sitehead img {
+  height: 80px;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.9rem;
+  padding: 0.25rem 0.5rem;
+  display: inline-block;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+header.intro {
+  background-color: white;
+  padding: 2rem 0;
+  border-bottom: 1px solid #ddd;
+}
+
+section {
+  padding: 2rem 0;
+}
+
+.book-description-table {
+  width: 100%;
+  display: table;
+  margin: 2rem auto;
+  table-layout: fixed;
+}
+
+.book-description-row {
+  display: table-row;
+}
+
+.book-description-cell {
+  display: table-cell;
+  vertical-align: top;
+  padding: 1rem;
+  border: 1px solid #ccc;
+}
+
+.book-description-cell h4 {
+  margin-bottom: 0.5rem;
+  color: var(--text-color);
+}
+
+.book-description-cell a {
+  color: var(--text-color);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.book-description-cell a:hover {
+  color: var(--accent-color);
+}
+
+.view-link {
+  margin-top: 1rem;
+  display: block;
+}
+
+#license,
+#disclaimer {
+  background-color: #f1f1f1;
+  padding: 1rem 0;
+  border-top: 1px solid #ddd;
+}
+
+#license h2,
+#disclaimer h2 {
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+#license p,
+#disclaimer p {
+  line-height: 1.7;
+  color: #555;
+}
+
+.footer {
+  background-color: #f0f0f0;
+  text-align: center;
+  padding: 1rem 0;
+  border-top: 1px solid #ddd;
+  margin-top: 2rem;
+}
+
+.section-title {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.contributors-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.contributor-card {
+  flex: 1;
+  min-width: 250px;
+  background: #fff;
+  padding: 1.5rem;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.contributor-card ul {
+  list-style-position: outside; /* Bullets outside the content */
+  padding-left: 1.2rem;         /* Indent for bullets */
+  text-align: left;             /* Align list text to the left */
+  margin: 1rem 0 0 0;           /* Optional spacing adjustments */
+}
+
+.contributor-card li {
+  margin-bottom: 0.5rem;
+}
+
+.contributor-card a{
+    color: var(--text-color);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.contributor-card a:hover{
+color: var(--accent-color);
+}
+.profile-img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+  align-items: center;
+}

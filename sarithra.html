@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sarithra Sambavangal - Chapters</title>
+  <link rel="stylesheet" href="sarithra-styles.css" />
+</head>
+<body>
+  <nav class="navbar">
+    <div class="container">
+      <div class="logo-title">
+        <img src="site-logo.png" alt="Site Logo" />
+        <h1 class="logo">ICSE Tamil Translations</h1>
+      </div>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="index.html#books">Books</a></li>
+        <li><a href="index.html#license">License</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <h1 class="page-title" id="page-title">Sarithra Sambavangal</h1>
+  <div class="reader-container">
+    <aside class="sidebar">
+      <ul id="chapter-list">
+        <!-- Chapters will be inserted here by JS -->
+      </ul>
+    </aside>
+    <section class="content" id="viewer">
+      <p>Select a chapter from the sidebar to view it here.</p>
+    </section>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    const chapterList = document.getElementById("chapter-list");
+    const pageTitle = document.getElementById("page-title");
+    let currentActiveLink = null;
+
+    const chapterCount = 6;
+
+    for (let i = 1; i <= chapterCount; i++) {
+      const filename = `chapter-${String(i).padStart(2, '0')}.md`;
+      const li = document.createElement("li");
+      const a = document.createElement("a");
+      a.href = "#";
+      a.textContent = `Chapter ${i}`;
+      a.onclick = () => {
+        loadChapter(filename, i);
+        if (currentActiveLink) currentActiveLink.classList.remove("active");
+        a.classList.add("active");
+        currentActiveLink = a;
+      };
+      li.appendChild(a);
+      chapterList.appendChild(li);
+    }
+
+    async function loadChapter(filename, chapterNum) {
+      const viewer = document.getElementById('viewer');
+      viewer.innerHTML = '<p>Loading...</p>';
+      pageTitle.textContent = `Sarithra Sambavangal - Chapter ${chapterNum}`;
+      try {
+        const res = await fetch(`texts/sarithra-sambavangal/${filename}`);
+        const text = await res.text();
+        viewer.innerHTML = marked.parse(text);
+      } catch (err) {
+        viewer.innerHTML = '<p>Failed to load chapter.</p>';
+      }
+    }
+  </script>
+</body>
+</html>
