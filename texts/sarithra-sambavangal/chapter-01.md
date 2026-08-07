@@ -1,5 +1,5 @@
 Author: Vaandu Mama  
-Translator: [Derpitron](https://github.com/Derpitron)
+Translator: Thiruvali Sadagoapan
 
 ---
 <br>
